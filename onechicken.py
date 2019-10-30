@@ -1,0 +1,2 @@
+a, b = [int(i) for i in input().split()]
+print('Dr. Chaz will have '+str(b-a)+' piece'+('s'if abs(a-b)>1 else'')+' of chicken left over!')if a<b else print('Dr. Chaz needs '+str(a-b)+' more piece'+('s'if abs(a-b)>1 else'')+' of chicken!')
