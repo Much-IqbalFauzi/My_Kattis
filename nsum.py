@@ -1,0 +1,1 @@
+a = input(); print(sum(i for i in list(map(int, input().split()))))
