@@ -1,27 +1,14 @@
 #include "iostream"
 #include "vector"
 #include <algorithm>
-#include <iterator>
 
 using namespace std;
 
-void checksubs(string * result, string * sortest) {
+void checksubs(vector<string> * nums) {
     string newNum;
     cin >> newNum;
-
-    if (*sortest == ""  || sortest->length() > newNum.length()) {
-        *sortest = newNum;
-    }
-
-    int res1 = newNum.find(*sortest);
-    int res2 = sortest->find(newNum);
-
-    if ((res1==0 || res2==0) && *sortest != newNum) {
-        *result = "NO";
-    }
-
+    nums->push_back(newNum);
 }
-
 
 int main() {
 
@@ -32,13 +19,24 @@ int main() {
         int total;
         cin >> total;
 
-        string result = "YES";
-        string sortest = "";
+        string unique = "YES";
+
+        vector<string> nums;
 
         while (total--) {
-            checksubs( &result, &sortest);
+            checksubs(&nums);
         }
 
-        cout << result << endl;
+        sort(nums.begin(), nums.end());
+
+        for (int i = 0; i < nums.size() - 1; i++) {
+            string next = nums[i+1].substr(0, nums[i].size());
+            if (nums[i] == next) {
+                unique = "NO";
+                break;
+            }
+        }
+
+        cout << unique << endl;
     }
 }

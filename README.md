@@ -110,6 +110,7 @@
 | [Parking](https://open.kattis.com/problems/parking)                                                         | `python` | [parking](solutions/parking.py)                                                   |
 | [Patuljci](https://open.kattis.com/problems/patuljci)                                                       | `python` | [patuljci](solutions/patuljci.py)                                                 |
 | [Pet](https://open.kattis.com/problems/pet)                                                                 | `java`   | [pet](solutions/pet.java)                                                         |
+| [Phone List](https://open.kattis.com/problems/phonelist)                                                    | `CPP`    | [phonelist](solutions/phonelist.cpp)                                              |
 | [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2)                                             | `python` | [pieceofcake2](solutions/pieceofcake2.py)                                         |
 | [Pizza Crust](https://open.kattis.com/problems/pizza2)                                                      | `python` | [pizza2](solutions/pizza2.py)                                                     |
 | [Planina](https://open.kattis.com/problems/planina)                                                         | `java`   | [planina](solutions/planina.java)                                                 |
