@@ -28,6 +28,7 @@
 | [Broken Swords](https://open.kattis.com/problems/brokenswords)                                              | `python` | [brokenswords](solutions/brokenswords.py)                                         |
 | [Building Pyramids](https://open.kattis.com/problems/pyramids)                                              | `python` | [pyramids](solutions/pyramids.py)                                                 |
 | [Bus](https://open.kattis.com/problems/bus)                                                                 | `python` | [bus](solutions/bus.py)                                                           |
+| [Bus Numbers](https://open.kattis.com/problems/busnumbers)                                                  | `CPP`    | [busnumbers](solutions/busnumbers.cpp)                                            |
 | [CD](https://open.kattis.com/problems/cd)                                                                   | `CPP`    | [cd](solutions/cd.cpp)                                                            |
 | [Cetiri](https://open.kattis.com/problems/cetiri)                                                           | `python` | [cetiri](solutions/cetiri.py)                                                     |
 | [Cetvrta](https://open.kattis.com/problems/cetvrta)                                                         | `java`   | [cetvrta](solutions/cetvrta.java)                                                 |
