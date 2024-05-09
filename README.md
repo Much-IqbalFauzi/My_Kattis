@@ -21,8 +21,11 @@
 | [Backspace](https://open.kattis.com/problems/backspace)                                                     | `python` | [backspace](solutions/backspace.py)                                               |
 | [Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone)                                | `python` | [basketballoneonone](solutions/basketballoneonone.py)                             |
 | [Batter Up](https://open.kattis.com/problems/batterup)                                                      | `python` | [batterup](solutions/batterup.py)                                                 |
+| [Besta gjöfin](https://open.kattis.com/problems/bestagjofin)                                                | `CPP`    | [bestagjofin](solutions/bestagjofin.cpp)                                          |
 | [Betting](https://open.kattis.com/problems/betting)                                                         | `kotlin` | [betting](solutions/betting.kt)                                                   |
 | [Bijele](https://open.kattis.com/problems/bijele)                                                           | `C`      | [bijele](solutions/bjele.c)                                                       |
+| [Blandað Best](https://open.kattis.com/problems/blandadbest)                                                | `CPP`    | [blandadbest](solutions/blandadbest.cpp)                                          |
+| [Blaðra](https://open.kattis.com/problems/bladra2)                                                          | `CPP`    | [bladra2](solutions/bladra2.cpp)                                                  |
 | [Booking a Room](https://open.kattis.com/problems/bookingaroom)                                             | `python` | [bookingaroom](solutions/bookingaroom.py)                                         |
 | [Boss Battle](https://open.kattis.com/problems/bossbattle)                                                  | `python` | [bossbattle](solutions/bossbattle.py)                                             |
 | [Broken Swords](https://open.kattis.com/problems/brokenswords)                                              | `python` | [brokenswords](solutions/brokenswords.py)                                         |
@@ -43,6 +46,7 @@
 | [Dice Cup](https://open.kattis.com/problems/dicecup)                                                        | `java`   | [dicecup](solutions/dicecup.java)                                                 |
 | [Dice Game](https://open.kattis.com/problems/dicegame)                                                      | `python` | [dicegame](solutions/dicegame.py)                                                 |
 | [Digit Swap](https://open.kattis.com/problems/digitswap)                                                    | `python` | [digitswap](solutions/digitswap.py)                                               |
+| [Draga Frá](https://open.kattis.com/problems/dragafra)                                                      | `CPP`    | [dragafra](solutions/dragafra.cpp)                                                |
 | [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)                                             | `python` | [echoechoecho](solutions/echoechoecho.py)                                         |
 | [Egypt](https://open.kattis.com/problems/egypt)                                                             | `python` | [egypt](solutions/egypt.py)                                                       |
 | [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets)                                    | `python` | [electricaloutlets](solutions/electricaloutlets.py)                               |
@@ -70,10 +74,12 @@
 | [Hello World!](https://open.kattis.com/problems/hello)                                                      | `java`   | [hello](solutions/hello.java)                                                     |
 | [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd)                                      | `python` | [helpaphd](solutions/helpaphd.py)                                                 |
 | [Herman](https://open.kattis.com/problems/herman)                                                           | `python` | [herman](solutions/herman.py)                                                     |
+| [Hipp Hipp](https://open.kattis.com/problems/hipphipp)                                                      | `CPP`    | [hipphipp](solutions/hipphipp.cpp)                                                |
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)                                    | `java`   | [hissingmicrophone](solutions/hissingmicrophone.java)                             |
 | [Homework](https://open.kattis.com/problems/heimavinna)                                                     | `python` | [heimavinna](solutions/heimavinna.py)                                             |
 | [Hraðgreining](https://open.kattis.com/problems/hradgreining)                                               | `kotlin` | [hradgreining](solutions/hradgreining.kt)                                         |
 | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere)                                    | `python` | [everywhere](solutions/everywhere.py)                                             |
+| [Is Y a Vowel?](https://open.kattis.com/problems/isyavowel)                                                 | `CPP`    | [isyavowel](solutions/isyavowel.cpp)                                              |
 | [IsItHalloween.com](https://open.kattis.com/problems/isithalloween)                                         | `python` | [isithalloween](solutions/isithalloween.py)                                       |
 | [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition)                 | `python` | [jackolanternjuxtaposition](solutions/jackolanternjuxtaposition.py)               |
 | [Job Expenses](https://open.kattis.com/problems/jobexpenses)                                                | `python` | [jobexpenses](solutions/jobexpenses.py)                                           |
@@ -86,11 +92,13 @@
 | [Knot Knowledge](https://open.kattis.com/problems/knotknowledge)                                            | `python` | [knotknowledge](solutions/knotknowledge.py)                                       |
 | [Kornislav](https://open.kattis.com/problems/kornislav)                                                     | `python` | [kornislav](solutions/kornislav.py)                                               |
 | [Križaljka](https://open.kattis.com/problems/krizaljka)                                                     | `python` | [krizaljka](solutions/krizaljka.py)                                               |
+| [Kveðja](https://open.kattis.com/problems/kvedja)                                                           | `CPP`    | [kvedja](solutions/kvedja.cpp)                                                    |
 | [Ladder](https://open.kattis.com/problems/ladder)                                                           | `python` | [ladder](solutions/ladder.py)                                                     |
 | [Laptop Sticker](https://open.kattis.com/problems/laptopsticker)                                            | `python` | [laptopsticker](solutions/laptopsticker.py)                                       |
 | [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit)                                 | `java`   | [lastfactorialdigit](solutions/lastfactoraldigit.java)                            |
 | [Leggja saman](https://open.kattis.com/problems/leggjasaman)                                                | `kotlin` | [leggjasaman](solutions/leggjasaman.kt)                                           |
 | [Line Them Up](https://open.kattis.com/problems/lineup)                                                     | `python` | [lineup](solutions/lineup.py)                                                     |
+| [Lubbi Lærir](https://open.kattis.com/problems/lubbilaerir)                                                 | `CPP`    | [lubbilaerir](solutions/lubbilaerir.cpp)                                          |
 | [Magic Trick](https://open.kattis.com/problems/magictrick)                                                  | `python` | [magictrick](solutions/magictrick.py)                                             |
 | [Metronome](https://open.kattis.com/problems/metronome)                                                     | `kotlin` | [metronome](solutions/metronome.kt)                                               |
 | [Millifærsla](https://open.kattis.com/problems/millifaersla)                                                | `kotlin` | [millifaersla](solutions/millifaersla.kt)                                         |
@@ -156,12 +164,14 @@
 | [Statistics](https://open.kattis.com/problems/statistics)                                                   | `python` | [statistics](solutions/statistics.py)                                             |
 | [Stopwatch](https://open.kattis.com/problems/stopwatch)                                                     | `python` | [stopwatch](solutions/stopwatch.py)                                               |
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)                                           | `java`   | [timeloop](solutions/timeloop.java)                                               |
+| [Stórafmæli](https://open.kattis.com/problems/storafmaeli)                                                  | `CPP`    | [storafmaeli](solutions/storafmaeli.cpp)                                          |
 | [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem)                                    | `python` | [sumkindofproblem](solutions/sumkindofproblem.py)                                 |
 | [Symmetric Order](https://open.kattis.com/problems/symmetricorder)                                          | `python` | [symmetricorder](solutions/symmetricorder.py)                                     |
 | [Take Two Stones](https://open.kattis.com/problems/twostones)                                               | `python` | [twostones](solutions/twostones.py)                                               |
 | [Tarifa](https://open.kattis.com/problems/tarifa)                                                           | `java`   | [tarifa](solutions/tarifa.java)                                                   |
 | [The Owl and the Fox](https://open.kattis.com/problems/owlandfox)                                           | `python` | [owlandfox](solutions/owlandfox.py)                                               |
 | [This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard) | `python` | [thisaintyourgrandpascheckerboard](solutions/thisaintyourgrandpascheckerboard.py) |
+| [Til hamingju](https://open.kattis.com/problems/tilhamingju)                                                | `CPP`    | [tilhamingju](solutions/tilhamingju.cpp)                                          |
 | [ToLower](https://open.kattis.com/problems/tolower)                                                         | `python` | [tolower](solutions/tolower.py)                                                   |
 | [Transit Woes](https://open.kattis.com/problems/transitwoes)                                                | `python` | [transitwoes](solutions/transitwoes.py)                                           |
 | [Triangle Area](https://open.kattis.com/problems/triarea)                                                   | `python` | [triarea](solutions/triarea.py)                                                   |
