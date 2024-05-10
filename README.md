@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Fauzi</h1>
 <h2 align="center">Here's my Kattis solutions</h2>
 
+<center>
+
 | Problem                                                                                                     | Language | Solution                                                                          |
 | :---------------------------------------------------------------------------------------------------------- | :------- | :-------------------------------------------------------------------------------- |
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter)                                            | `python` | [3dprinter](solutions/3dprinter.py)                                               |
@@ -24,6 +26,7 @@
 | [Besta gjöfin](https://open.kattis.com/problems/bestagjofin)                                                | `CPP`    | [bestagjofin](solutions/bestagjofin.cpp)                                          |
 | [Betting](https://open.kattis.com/problems/betting)                                                         | `kotlin` | [betting](solutions/betting.kt)                                                   |
 | [Bijele](https://open.kattis.com/problems/bijele)                                                           | `C`      | [bijele](solutions/bjele.c)                                                       |
+| [Bitte ein Bit](https://open.kattis.com/problems/bitteeinbit)                                               | `CPP`    | [bitteeinbit](solutions/bitteeinbit.cpp)                                          |
 | [Blandað Best](https://open.kattis.com/problems/blandadbest)                                                | `CPP`    | [blandadbest](solutions/blandadbest.cpp)                                          |
 | [Blaðra](https://open.kattis.com/problems/bladra2)                                                          | `CPP`    | [bladra2](solutions/bladra2.cpp)                                                  |
 | [Booking a Room](https://open.kattis.com/problems/bookingaroom)                                             | `python` | [bookingaroom](solutions/bookingaroom.py)                                         |
@@ -75,6 +78,7 @@
 | [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd)                                      | `python` | [helpaphd](solutions/helpaphd.py)                                                 |
 | [Herman](https://open.kattis.com/problems/herman)                                                           | `python` | [herman](solutions/herman.py)                                                     |
 | [Hipp Hipp](https://open.kattis.com/problems/hipphipp)                                                      | `CPP`    | [hipphipp](solutions/hipphipp.cpp)                                                |
+| [Hipp Hipp Húrra](https://open.kattis.com/problems/hipphipphurra)                                           | `CPP`    | [hipphipphurra](solutions/hipphipphurra.cpp)                                      |
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)                                    | `java`   | [hissingmicrophone](solutions/hissingmicrophone.java)                             |
 | [Homework](https://open.kattis.com/problems/heimavinna)                                                     | `python` | [heimavinna](solutions/heimavinna.py)                                             |
 | [Hraðgreining](https://open.kattis.com/problems/hradgreining)                                               | `kotlin` | [hradgreining](solutions/hradgreining.kt)                                         |
@@ -146,6 +150,7 @@
 | [Secure Doors](https://open.kattis.com/problems/securedoors)                                                | `python` | [securedoors](solutions/securedoors.py)                                           |
 | [Server](https://open.kattis.com/problems/server)                                                           | `python` | [server](solutions/server.py)                                                     |
 | [Seven Wonders](https://open.kattis.com/problems/sevenwonders)                                              | `python` | [sevenwonders](solutions/sevenwonders.py)                                         |
+| [Shandy](https://open.kattis.com/problems/shandy)                                                           | `CPP`    | [shandy](solutions/shandy.cpp)                                                    |
 | [Shattered Cake](https://open.kattis.com/problems/shatteredcake)                                            | `python` | [shatteredcake](solutions/shatteredcake.py)                                       |
 | [Sibice](https://open.kattis.com/problems/sibice)                                                           | `java`   | [sibice](solutions/sibice.java)                                                   |
 | [Simon Says](https://open.kattis.com/problems/simon)                                                        | `python` | [simon](solutions/simon.py)                                                       |
@@ -176,6 +181,7 @@
 | [Transit Woes](https://open.kattis.com/problems/transitwoes)                                                | `python` | [transitwoes](solutions/transitwoes.py)                                           |
 | [Triangle Area](https://open.kattis.com/problems/triarea)                                                   | `python` | [triarea](solutions/triarea.py)                                                   |
 | [Trik](https://open.kattis.com/problems/trik)                                                               | `java`   | [trik](solutions/trik.java)                                                       |
+| [Triple Sevens](https://open.kattis.com/problems/triplesevens)                                              | `python` | [triplesevens](solutions/triplesevens.py)                                         |
 | [Two-sum](https://open.kattis.com/problems/twosum)                                                          | `python` | [twosum](solutions/twosum.py)                                                     |
 | [Tölvunarfræðingar telja](https://open.kattis.com/problems/tolvunarfraedingartelja)                         | `kotlin` | [tolvunarfraedingartelja](solutions/tolvunarfraedingartelja.kt)                   |
 | [Umferð](https://open.kattis.com/problems/umferd)                                                           | `kotlin` | [umferd](solutions/umferd.kt)                                                     |
@@ -189,3 +195,5 @@
 | [Á leið í bíó](https://open.kattis.com/problems/aleidibio)                                                  | `kotlin` | [aleidibio](solutions/aleidibio.kt)                                               |
 | [Óvissa](https://open.kattis.com/problems/ovissa)                                                           | `kotlin` | [ovissa](solutions/ovissa.kt)                                                     |
 | [Östgötska](https://open.kattis.com/problems/ostgotska)                                                     | `python` | [ostgotska](solutions/ostgotska.py)                                               |
+
+</center>
