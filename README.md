@@ -63,6 +63,7 @@
 | [Filip](https://open.kattis.com/problems/filip)                                                             | `C`      | [filip](solutions/filip.c)                                                        |
 | [Finding An A](https://open.kattis.com/problems/findingana)                                                 | `python` | [findingana](solutions/findingana.py)                                             |
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)                                                       | `python` | [fizzbuzz](solutions/fizzbuzz.java)                                               |
+| [Fjöldi Bókstafa](https://open.kattis.com/problems/fjoldibokstafa)                                          | `CPP`    | [fjoldibokstafa](solutions/fjoldibokstafa.cpp)                                    |
 | [Flatbökuveisla](https://open.kattis.com/problems/flatbokuveisla)                                           | `kotlin` | [flatbokuveisla](solutions/flatbokuveisla.kt)                                     |
 | [Flýtibaka](https://open.kattis.com/problems/flytibaka)                                                     | `kotlin` | [flytibaka](solutions/flytibaka.kt)                                               |
 | [Framtíðar FIFA](https://open.kattis.com/problems/fifa)                                                     | `kotlin` | [fifa](solutions/fifa.kt)                                                         |
@@ -91,12 +92,14 @@
 | [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin)                                              | `python` | [jumbojavelin](solutions/jumbojavelin.py)                                         |
 | [Karte](https://open.kattis.com/problems/karte)                                                             | `python` | [karte](solutions/karte.py)                                                       |
 | [Kemija](https://open.kattis.com/problems/kemija08)                                                         | `python` | [kemija08](solutions/kemija08.py)                                                 |
+| [Keys, Phone, Wallet](https://open.kattis.com/problems/keysphonewallet)                                     | `CPP`    | [keysphonewallet](solutions/keysphonewallet.cpp)                                  |
 | [Kiki Boba](https://open.kattis.com/problems/kikiboba)                                                      | `dart`   | [kikiboba](solutions/kikiboba.dart)                                               |
 | [Knight Packing](https://open.kattis.com/problems/knightpacking)                                            | `kotlin` | [knightpacking](solutions/knightpacking.kt)                                       |
 | [Knot Knowledge](https://open.kattis.com/problems/knotknowledge)                                            | `python` | [knotknowledge](solutions/knotknowledge.py)                                       |
 | [Kornislav](https://open.kattis.com/problems/kornislav)                                                     | `python` | [kornislav](solutions/kornislav.py)                                               |
 | [Križaljka](https://open.kattis.com/problems/krizaljka)                                                     | `python` | [krizaljka](solutions/krizaljka.py)                                               |
 | [Kveðja](https://open.kattis.com/problems/kvedja)                                                           | `CPP`    | [kvedja](solutions/kvedja.cpp)                                                    |
+| [Kínahvísl](https://open.kattis.com/problems/kinahvisl)                                                     | `CPP`    | [kinahvisl](solutions/kinahvisl.cpp)                                              |
 | [Ladder](https://open.kattis.com/problems/ladder)                                                           | `python` | [ladder](solutions/ladder.py)                                                     |
 | [Laptop Sticker](https://open.kattis.com/problems/laptopsticker)                                            | `python` | [laptopsticker](solutions/laptopsticker.py)                                       |
 | [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit)                                 | `java`   | [lastfactorialdigit](solutions/lastfactoraldigit.java)                            |
@@ -156,6 +159,7 @@
 | [Simon Says](https://open.kattis.com/problems/simon)                                                        | `python` | [simon](solutions/simon.py)                                                       |
 | [Simon Says](https://open.kattis.com/problems/simonsays)                                                    | `python` | [simonsays](solutions/simonsays.py)                                               |
 | [Simple Addition](https://open.kattis.com/problems/simpleaddition)                                          | `python` | [simpleaddition](solutions/simpleaddition.py)                                     |
+| [Sith](https://open.kattis.com/problems/sith)                                                               | `CPP`    | [sith](solutions/sith.cpp)                                                        |
 | [Skener](https://open.kattis.com/problems/skener)                                                           | `python` | [skener](solutions/skener.py)                                                     |
 | [Soda Slurper](https://open.kattis.com/problems/sodaslurper)                                                | `python` | [sodaslurper](solutions/sodaslurper.py)                                           |
 | [Sok](https://open.kattis.com/problems/sok)                                                                 | `python` | [sok](solutions/sok.py)                                                           |
