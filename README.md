@@ -23,6 +23,7 @@
 | [Backspace](https://open.kattis.com/problems/backspace)                                                     | `python` | [backspace](solutions/backspace.py)                                               |
 | [Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone)                                | `python` | [basketballoneonone](solutions/basketballoneonone.py)                             |
 | [Batter Up](https://open.kattis.com/problems/batterup)                                                      | `python` | [batterup](solutions/batterup.py)                                                 |
+| [Bela](https://open.kattis.com/problems/bela)                                                               | `CPP`    | [bela](solutions/bela.cpp)                                                        |
 | [Besta gjöfin](https://open.kattis.com/problems/bestagjofin)                                                | `CPP`    | [bestagjofin](solutions/bestagjofin.cpp)                                          |
 | [Betting](https://open.kattis.com/problems/betting)                                                         | `kotlin` | [betting](solutions/betting.kt)                                                   |
 | [Bijele](https://open.kattis.com/problems/bijele)                                                           | `C`      | [bijele](solutions/bjele.c)                                                       |
@@ -107,6 +108,7 @@
 | [Line Them Up](https://open.kattis.com/problems/lineup)                                                     | `python` | [lineup](solutions/lineup.py)                                                     |
 | [Lubbi Lærir](https://open.kattis.com/problems/lubbilaerir)                                                 | `CPP`    | [lubbilaerir](solutions/lubbilaerir.cpp)                                          |
 | [Magic Trick](https://open.kattis.com/problems/magictrick)                                                  | `python` | [magictrick](solutions/magictrick.py)                                             |
+| [Message](https://open.kattis.com/problems/meddelande)                                                      | `CPP`    | [meddelande](solutions/meddelande.cpp)                                            |
 | [Metronome](https://open.kattis.com/problems/metronome)                                                     | `kotlin` | [metronome](solutions/metronome.kt)                                               |
 | [Millifærsla](https://open.kattis.com/problems/millifaersla)                                                | `kotlin` | [millifaersla](solutions/millifaersla.kt)                                         |
 | [Mirror Images](https://open.kattis.com/problems/mirror)                                                    | `python` | [mirror](solutions/mirror.py)                                                     |
