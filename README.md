@@ -37,6 +37,7 @@
 | [Bus](https://open.kattis.com/problems/bus)                                                                 | `python` | [bus](solutions/bus.py)                                                           |
 | [Bus Numbers](https://open.kattis.com/problems/busnumbers)                                                  | `CPP`    | [busnumbers](solutions/busnumbers.cpp)                                            |
 | [CD](https://open.kattis.com/problems/cd)                                                                   | `CPP`    | [cd](solutions/cd.cpp)                                                            |
+| [Candy Store](https://open.kattis.com/problems/candystore)                                                  | `CPP`    | [candystore](solutions/candystore.cpp)                                            |
 | [Cetiri](https://open.kattis.com/problems/cetiri)                                                           | `python` | [cetiri](solutions/cetiri.py)                                                     |
 | [Cetvrta](https://open.kattis.com/problems/cetvrta)                                                         | `java`   | [cetvrta](solutions/cetvrta.java)                                                 |
 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah)                                             | `python` | [chanukah](solutions/chanukah.py)                                                 |
@@ -192,6 +193,7 @@
 | [Tölvunarfræðingar telja](https://open.kattis.com/problems/tolvunarfraedingartelja)                         | `kotlin` | [tolvunarfraedingartelja](solutions/tolvunarfraedingartelja.kt)                   |
 | [Umferð](https://open.kattis.com/problems/umferd)                                                           | `kotlin` | [umferd](solutions/umferd.kt)                                                     |
 | [Un-bear-able Zoo](https://open.kattis.com/problems/zoo)                                                    | `python` | [zoo](solutions/zoo.py)                                                           |
+| [Undead or Alive](https://open.kattis.com/problems/undeadoralive)                                           | `CPP`    | [undeadoralive](solutions/undeadoralive.cpp)                                      |
 | [Vauvau](https://open.kattis.com/problems/vauvau)                                                           | `python` | [vauvau](solutions/vauvau.py)                                                     |
 | [Velkomin!](https://open.kattis.com/problems/velkomin)                                                      | `kotlin` | [velkomin](solutions/velkomin.kt)                                                 |
 | [Veður - Lokaðar heiðar](https://open.kattis.com/problems/vedurheidar)                                      | `kotlin` | [vedurheidar](solutions/vedurheidar.kt)                                           |
