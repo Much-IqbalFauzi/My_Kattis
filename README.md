@@ -163,6 +163,7 @@
 | [Simon Says](https://open.kattis.com/problems/simonsays)                                                    | `python` | [simonsays](solutions/simonsays.py)                                               |
 | [Simple Addition](https://open.kattis.com/problems/simpleaddition)                                          | `python` | [simpleaddition](solutions/simpleaddition.py)                                     |
 | [Sith](https://open.kattis.com/problems/sith)                                                               | `CPP`    | [sith](solutions/sith.cpp)                                                        |
+| [Skammstöfun](https://open.kattis.com/problems/skammstofun)                                                 | `CPP`    | [skammstofun](solutions/skammstofun.cpp)                                          |
 | [Skener](https://open.kattis.com/problems/skener)                                                           | `python` | [skener](solutions/skener.py)                                                     |
 | [Soda Slurper](https://open.kattis.com/problems/sodaslurper)                                                | `python` | [sodaslurper](solutions/sodaslurper.py)                                           |
 | [Sok](https://open.kattis.com/problems/sok)                                                                 | `python` | [sok](solutions/sok.py)                                                           |
