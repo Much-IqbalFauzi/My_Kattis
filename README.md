@@ -2,6 +2,7 @@
 <h2 align="center">Here's my Kattis solutions</h2>
 
 <center>
+
 | Problem                                                                                                     | Language | Solution                                                                          |
 | :---------------------------------------------------------------------------------------------------------- | :------- | :-------------------------------------------------------------------------------- |
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter)                                            | `python` | [3dprinter](solutions/3dprinter.py)                                               |
@@ -206,4 +207,5 @@
 | [Á leið í bíó](https://open.kattis.com/problems/aleidibio)                                                  | `kotlin` | [aleidibio](solutions/aleidibio.kt)                                               |
 | [Óvissa](https://open.kattis.com/problems/ovissa)                                                           | `kotlin` | [ovissa](solutions/ovissa.kt)                                                     |
 | [Östgötska](https://open.kattis.com/problems/ostgotska)                                                     | `python` | [ostgotska](solutions/ostgotska.py)                                               |
+
 </center>
