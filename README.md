@@ -2,7 +2,6 @@
 <h2 align="center">Here's my Kattis solutions</h2>
 
 <center>
-
 | Problem                                                                                                     | Language | Solution                                                                          |
 | :---------------------------------------------------------------------------------------------------------- | :------- | :-------------------------------------------------------------------------------- |
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter)                                            | `python` | [3dprinter](solutions/3dprinter.py)                                               |
@@ -10,6 +9,7 @@
 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet)                                             | `python` | [anewalphabet](solutions/anewalphabet.py)                                         |
 | [A Real Challenge](https://open.kattis.com/problems/areal)                                                  | `python` | [areal](solutions/areal.py)                                                       |
 | [ABC](https://open.kattis.com/problems/abc)                                                                 | `python` | [abc](solutions/abc.py)                                                           |
+| [ASCII kassi](https://open.kattis.com/problems/asciikassi)                                                  | `CPP`    | [asciikassi](solutions/asciikassi.cpp)                                            |
 | [Aaah!](https://open.kattis.com/problems/aaah)                                                              | `python` | [aaah](solutions/aaah.py)                                                         |
 | [Above Average](https://open.kattis.com/problems/aboveaverage)                                              | `python` | [aboveaverage](solutions/aboveaverage.py)                                         |
 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)                                           | `python` | [addtwonumbers](solutions/addtwonumbers.py)                                       |
@@ -54,6 +54,7 @@
 | [Draga Frá](https://open.kattis.com/problems/dragafra)                                                      | `CPP`    | [dragafra](solutions/dragafra.cpp)                                                |
 | [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)                                             | `python` | [echoechoecho](solutions/echoechoecho.py)                                         |
 | [Egypt](https://open.kattis.com/problems/egypt)                                                             | `python` | [egypt](solutions/egypt.py)                                                       |
+| [Ekki dauði opna inni](https://open.kattis.com/problems/ekkidaudi)                                          | `python` | [ekkidaudi](solutions/ekkidaudi.py)                                               |
 | [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets)                                    | `python` | [electricaloutlets](solutions/electricaloutlets.py)                               |
 | [Encoded Message](https://open.kattis.com/problems/encodedmessage)                                          | `python` | [encodedmessage](solutions/encodedmessage.py)                                     |
 | [Erase Securely](https://open.kattis.com/problems/erase)                                                    | `python` | [erase](solutions/erase.py)                                                       |
@@ -186,6 +187,7 @@
 | [This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard) | `python` | [thisaintyourgrandpascheckerboard](solutions/thisaintyourgrandpascheckerboard.py) |
 | [Til hamingju](https://open.kattis.com/problems/tilhamingju)                                                | `CPP`    | [tilhamingju](solutions/tilhamingju.cpp)                                          |
 | [ToLower](https://open.kattis.com/problems/tolower)                                                         | `python` | [tolower](solutions/tolower.py)                                                   |
+| [Tok Tik](https://open.kattis.com/problems/toktik)                                                          | `CPP`    | [toktik](solutions/toktik.cpp)                                                    |
 | [Transit Woes](https://open.kattis.com/problems/transitwoes)                                                | `python` | [transitwoes](solutions/transitwoes.py)                                           |
 | [Triangle Area](https://open.kattis.com/problems/triarea)                                                   | `python` | [triarea](solutions/triarea.py)                                                   |
 | [Trik](https://open.kattis.com/problems/trik)                                                               | `java`   | [trik](solutions/trik.java)                                                       |
@@ -204,5 +206,4 @@
 | [Á leið í bíó](https://open.kattis.com/problems/aleidibio)                                                  | `kotlin` | [aleidibio](solutions/aleidibio.kt)                                               |
 | [Óvissa](https://open.kattis.com/problems/ovissa)                                                           | `kotlin` | [ovissa](solutions/ovissa.kt)                                                     |
 | [Östgötska](https://open.kattis.com/problems/ostgotska)                                                     | `python` | [ostgotska](solutions/ostgotska.py)                                               |
-
 </center>
