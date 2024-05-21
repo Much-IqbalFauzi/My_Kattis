@@ -182,6 +182,7 @@
 | [Stórafmæli](https://open.kattis.com/problems/storafmaeli)                                                  | `CPP`    | [storafmaeli](solutions/storafmaeli.cpp)                                          |
 | [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem)                                    | `python` | [sumkindofproblem](solutions/sumkindofproblem.py)                                 |
 | [Symmetric Order](https://open.kattis.com/problems/symmetricorder)                                          | `python` | [symmetricorder](solutions/symmetricorder.py)                                     |
+| [Sóttkví](https://open.kattis.com/problems/sottkvi)                                                         | `CPP`    | [sottkvi](solutions/sottkvi.cpp)                                                  |
 | [Take Two Stones](https://open.kattis.com/problems/twostones)                                               | `python` | [twostones](solutions/twostones.py)                                               |
 | [Tarifa](https://open.kattis.com/problems/tarifa)                                                           | `java`   | [tarifa](solutions/tarifa.java)                                                   |
 | [The Owl and the Fox](https://open.kattis.com/problems/owlandfox)                                           | `python` | [owlandfox](solutions/owlandfox.py)                                               |
@@ -201,6 +202,7 @@
 | [Vauvau](https://open.kattis.com/problems/vauvau)                                                           | `python` | [vauvau](solutions/vauvau.py)                                                     |
 | [Velkomin!](https://open.kattis.com/problems/velkomin)                                                      | `kotlin` | [velkomin](solutions/velkomin.kt)                                                 |
 | [Veður - Lokaðar heiðar](https://open.kattis.com/problems/vedurheidar)                                      | `kotlin` | [vedurheidar](solutions/vedurheidar.kt)                                           |
+| [Veður - Vindhraði](https://open.kattis.com/problems/vedurvindhradi)                                        | `CPP`    | [vedurvindhradi](solutions/vedurvindhradi.cpp)                                    |
 | [Viðsnúningur](https://open.kattis.com/problems/vidsnuningur)                                               | `kotlin` | [vidsnuningur](solutions/vidsnuningur.kt)                                         |
 | [Which is Greater?](https://open.kattis.com/problems/whichisgreater)                                        | `python` | [whichisgreater](solutions/whichisgreater.py)                                     |
 | [Zamka](https://open.kattis.com/problems/zamka)                                                             | `CPP`    | [zamka](solutions/zamka.cpp)                                                      |
