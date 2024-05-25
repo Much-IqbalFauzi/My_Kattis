@@ -14,7 +14,7 @@ int main() {
         cin >> a;
         while (cin >> b && b!= 0) {
             int isReal = b - (2 * a);
-            
+            a = b;
             if (isReal < 0) {
                 isReal = 0;
             }

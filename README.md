@@ -48,6 +48,7 @@
 | [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)                                     | `python` | [conundrum](solutions/conundrum.py)                                               |
 | [Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights)                                      | `python` | [dasblinkenlights](solutions/dasblinkenlights.py)                                 |
 | [Datum](https://open.kattis.com/problems/datum)                                                             | `python` | [datum](solutions/datum.py)                                                       |
+| [Death Knight Hero](https://open.kattis.com/problems/datum)                                                 | `CPP`    | [datum](solutions/datum.py)                                                       |
 | [Detailed Differences](https://open.kattis.com/problems/detaileddifferences)                                | `python` | [detaileddifferences](solutions/detaileddifferences.py)                           |
 | [Dice Cup](https://open.kattis.com/problems/dicecup)                                                        | `java`   | [dicecup](solutions/dicecup.java)                                                 |
 | [Dice Game](https://open.kattis.com/problems/dicegame)                                                      | `python` | [dicegame](solutions/dicegame.py)                                                 |
@@ -176,6 +177,7 @@
 | [Spavanac](https://open.kattis.com/problems/spavanac)                                                       | `java`   | [spavanac](solutions/spavanac.java)                                               |
 | [Speed Limit](https://open.kattis.com/problems/speedlimit)                                                  | `java`   | [speedlimit](solutions/speedlimit.java)                                           |
 | [Spritt](https://open.kattis.com/problems/spritt)                                                           | `kotlin` | [spritt](solutions/spritt.kt)                                                     |
+| [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar)                                              | `CPP`    | [zanzibar](solutions/zanzibar.cpp)                                                |
 | [Statistics](https://open.kattis.com/problems/statistics)                                                   | `python` | [statistics](solutions/statistics.py)                                             |
 | [Stopwatch](https://open.kattis.com/problems/stopwatch)                                                     | `python` | [stopwatch](solutions/stopwatch.py)                                               |
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)                                           | `java`   | [timeloop](solutions/timeloop.java)                                               |
