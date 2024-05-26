@@ -1,27 +1,8 @@
 #include "iostream"
-#include <algorithm>
 #include <map>
 #include <utility>
-#include <vector>
 
 using namespace std;
-
-bool cmp(pair<char, int> &a, pair<char, int> &b) {
-    return a.second < b.second;
-}
-
-void sortMap(map<char, int> & val) {
-
-    vector<pair<char, int>> temp;
-
-    for (auto &item : val) {
-        temp.push_back(item);
-    }
-
-    sort(temp.begin(), temp.end(), cmp);
-
-    cout << temp[0].second << endl;
-}
 
 int main() {
     map<char, int> val;
@@ -31,12 +12,19 @@ int main() {
         cin >> card;
 
         if (val.count(card[0])) {
-            val[card[0]] = 0;
+            val[card[0]] = val[card[0]] + 1;
         } else {
-            val[card[0]] += 1;
+            val.insert(make_pair(card[0], 1));
         }
     }
 
-    sortMap(val);
+    int biggest = 0;
+    for (auto &item : val) {
+        if (item.second > biggest) {
+            biggest = item.second;
+        }
+    }
+
+    cout << biggest << endl;
 
 }
