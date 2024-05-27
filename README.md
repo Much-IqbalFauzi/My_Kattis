@@ -52,6 +52,7 @@
 | [Detailed Differences](https://open.kattis.com/problems/detaileddifferences)                                | `python` | [detaileddifferences](solutions/detaileddifferences.py)                           |
 | [Dice Cup](https://open.kattis.com/problems/dicecup)                                                        | `java`   | [dicecup](solutions/dicecup.java)                                                 |
 | [Dice Game](https://open.kattis.com/problems/dicegame)                                                      | `python` | [dicegame](solutions/dicegame.py)                                                 |
+| [Digit Product](https://open.kattis.com/problems/sifferprodukt)                                             | `CPP`    | [sifferprodukt](solutions/sifferprodukt.cpp)                                      |
 | [Digit Swap](https://open.kattis.com/problems/digitswap)                                                    | `python` | [digitswap](solutions/digitswap.py)                                               |
 | [Draga Frá](https://open.kattis.com/problems/dragafra)                                                      | `CPP`    | [dragafra](solutions/dragafra.cpp)                                                |
 | [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)                                             | `python` | [echoechoecho](solutions/echoechoecho.py)                                         |
