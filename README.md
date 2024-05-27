@@ -54,6 +54,7 @@
 | [Dice Game](https://open.kattis.com/problems/dicegame)                                                      | `python` | [dicegame](solutions/dicegame.py)                                                 |
 | [Digit Product](https://open.kattis.com/problems/sifferprodukt)                                             | `CPP`    | [sifferprodukt](solutions/sifferprodukt.cpp)                                      |
 | [Digit Swap](https://open.kattis.com/problems/digitswap)                                                    | `python` | [digitswap](solutions/digitswap.py)                                               |
+| [Divvying Up](https://open.kattis.com/problems/divvyingup)                                                  | `CPP`    | [divvyingup](solutions/divvyingup.cpp)                                            |
 | [Draga Frá](https://open.kattis.com/problems/dragafra)                                                      | `CPP`    | [dragafra](solutions/dragafra.cpp)                                                |
 | [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)                                             | `python` | [echoechoecho](solutions/echoechoecho.py)                                         |
 | [Egypt](https://open.kattis.com/problems/egypt)                                                             | `python` | [egypt](solutions/egypt.py)                                                       |
@@ -149,6 +150,7 @@
 | [R2](https://open.kattis.com/problems/r2)                                                                   | `java`   | [r2](solutions/r2.java)                                                           |
 | [Railroad](https://open.kattis.com/problems/railroad2)                                                      | `python` | [railroad2](solutions/railroad2.py)                                               |
 | [Rating Problems](https://open.kattis.com/problems/ratingproblems)                                          | `python` | [ratingproblems](solutions/ratingproblems.py)                                     |
+| [Rectangle Area](https://open.kattis.com/problems/rectanglearea)                                            | `CPP`    | [rectanglearea](solutions/rectanglearea.cpp)                                      |
 | [Reduplication](https://open.kattis.com/problems/reduplikation)                                             | `kotlin` | [reduplikation](solutions/reduplikation.kt)                                       |
 | [Reverse](https://open.kattis.com/problems/ofugsnuid)                                                       | `python` | [ofugsnuid](solutions/ofugsnuid.py)                                               |
 | [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary)                                   | `python` | [reversebinary](solutions/reversebinary.py)                                       |
