@@ -76,6 +76,7 @@
 | [Framtíðar FIFA](https://open.kattis.com/problems/fifa)                                                     | `kotlin` | [fifa](solutions/fifa.kt)                                                         |
 | [Free Food](https://open.kattis.com/problems/freefood)                                                      | `python` | [freefood](solutions/freefood.py)                                                 |
 | [GCVWR](https://open.kattis.com/problems/gcvwr)                                                             | `python` | [gcvwr](solutions/gcvwr.py)                                                       |
+| [Goomba Stacks](https://open.kattis.com/problems/goombastacks)                                              | `CPP`    | [goombastacks](solutions/goombastacks.cpp)                                        |
 | [Grading](https://open.kattis.com/problems/grading)                                                         | `python` | [grading](solutions/grading.py)                                                   |
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed)                                               | `java`   | [grassseed](solutions/grassseed.java)                                             |
 | [Greetings!](https://open.kattis.com/problems/greetings2)                                                   | `python` | [greetings2](solutions/greetings2.py)                                             |
@@ -90,6 +91,7 @@
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)                                    | `java`   | [hissingmicrophone](solutions/hissingmicrophone.java)                             |
 | [Homework](https://open.kattis.com/problems/heimavinna)                                                     | `python` | [heimavinna](solutions/heimavinna.py)                                             |
 | [Hraðgreining](https://open.kattis.com/problems/hradgreining)                                               | `kotlin` | [hradgreining](solutions/hradgreining.kt)                                         |
+| [Hvert Skal Mæta?](https://open.kattis.com/problems/hvertskalmaeta)                                         | `CPP`    | [hvertskalmaeta](solutions/hvertskalmaeta.cpp)                                    |
 | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere)                                    | `python` | [everywhere](solutions/everywhere.py)                                             |
 | [Is Y a Vowel?](https://open.kattis.com/problems/isyavowel)                                                 | `CPP`    | [isyavowel](solutions/isyavowel.cpp)                                              |
 | [IsItHalloween.com](https://open.kattis.com/problems/isithalloween)                                         | `python` | [isithalloween](solutions/isithalloween.py)                                       |
@@ -183,6 +185,7 @@
 | [Spritt](https://open.kattis.com/problems/spritt)                                                           | `kotlin` | [spritt](solutions/spritt.kt)                                                     |
 | [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar)                                              | `CPP`    | [zanzibar](solutions/zanzibar.cpp)                                                |
 | [Statistics](https://open.kattis.com/problems/statistics)                                                   | `python` | [statistics](solutions/statistics.py)                                             |
+| [Sticky Keys](https://open.kattis.com/problems/stickykeys)                                                  | `CPP`    | [stickykeys](solutions/stickykeys.cpp)                                            |
 | [Stopwatch](https://open.kattis.com/problems/stopwatch)                                                     | `python` | [stopwatch](solutions/stopwatch.py)                                               |
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)                                           | `java`   | [timeloop](solutions/timeloop.java)                                               |
 | [Stórafmæli](https://open.kattis.com/problems/storafmaeli)                                                  | `CPP`    | [storafmaeli](solutions/storafmaeli.cpp)                                          |
