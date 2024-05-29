@@ -41,6 +41,7 @@
 | [Candy Store](https://open.kattis.com/problems/candystore)                                                  | `CPP`    | [candystore](solutions/candystore.cpp)                                            |
 | [Cetiri](https://open.kattis.com/problems/cetiri)                                                           | `python` | [cetiri](solutions/cetiri.py)                                                     |
 | [Cetvrta](https://open.kattis.com/problems/cetvrta)                                                         | `java`   | [cetvrta](solutions/cetvrta.java)                                                 |
+| [Champernowne Verification](https://open.kattis.com/problems/champernowneverification)                      | `CPP`    | [champernowneverification](solutions/champernowneverification.cpp)                |
 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah)                                             | `python` | [chanukah](solutions/chanukah.py)                                                 |
 | [Cold-puter Science](https://open.kattis.com/problems/cold)                                                 | `python` | [cold](solutions/cold.py)                                                         |
 | [Costume Contest](https://open.kattis.com/problems/costumecontest)                                          | `python` | [costumecontest](solutions/costumecontest.py)                                     |
