@@ -43,6 +43,7 @@
 | [Cetvrta](https://open.kattis.com/problems/cetvrta)                                                         | `java`   | [cetvrta](solutions/cetvrta.java)                                                 |
 | [Champernowne Verification](https://open.kattis.com/problems/champernowneverification)                      | `CPP`    | [champernowneverification](solutions/champernowneverification.cpp)                |
 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah)                                             | `python` | [chanukah](solutions/chanukah.py)                                                 |
+| [Class Field Trip](https://open.kattis.com/problems/classfieldtrip)                                         | `CPP`    | [classfieldtrip](solutions/classfieldtrip.cpp)                                    |
 | [Cold-puter Science](https://open.kattis.com/problems/cold)                                                 | `python` | [cold](solutions/cold.py)                                                         |
 | [Costume Contest](https://open.kattis.com/problems/costumecontest)                                          | `python` | [costumecontest](solutions/costumecontest.py)                                     |
 | [Count the Vowels](https://open.kattis.com/problems/countthevowels)                                         | `python` | [countthevowels](solutions/countthevowels.py)                                     |
@@ -200,6 +201,7 @@
 | [Til hamingju](https://open.kattis.com/problems/tilhamingju)                                                | `CPP`    | [tilhamingju](solutions/tilhamingju.cpp)                                          |
 | [ToLower](https://open.kattis.com/problems/tolower)                                                         | `python` | [tolower](solutions/tolower.py)                                                   |
 | [Tok Tik](https://open.kattis.com/problems/toktik)                                                          | `CPP`    | [toktik](solutions/toktik.cpp)                                                    |
+| [Training](https://open.kattis.com/problems/training)                                                       | `CPP`    | [training](solutions/training.cpp)                                                |
 | [Transit Woes](https://open.kattis.com/problems/transitwoes)                                                | `python` | [transitwoes](solutions/transitwoes.py)                                           |
 | [Triangle Area](https://open.kattis.com/problems/triarea)                                                   | `python` | [triarea](solutions/triarea.py)                                                   |
 | [Trik](https://open.kattis.com/problems/trik)                                                               | `java`   | [trik](solutions/trik.java)                                                       |
