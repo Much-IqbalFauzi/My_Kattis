@@ -18,6 +18,7 @@
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam)                                              | `python` | [alphabetspam](solutions/alphabetspam.py)                                         |
 | [Amerískur vinnustaður](https://open.kattis.com/problems/ameriskur)                                         | `kotlin` | [ameriskur](solutions/ameriskur.kt)                                               |
 | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)                                         | `python` | [apaxiaaans](solutions/apaxiaaans.py)                                             |
+| [Arrangement](https://open.kattis.com/problems/upprodun)                                                    | `CPP`    | [upprodun](solutions/upprodun.cpp)                                                |
 | [Autori](https://open.kattis.com/problems/autori)                                                           | `java`   | [autori](solutions/autori.java)                                                   |
 | [Avion](https://open.kattis.com/problems/avion)                                                             | `python` | [avion](solutions/avion.py)                                                       |
 | [Baby Bites](https://open.kattis.com/problems/babybites)                                                    | `python` | [babybites](solutions/babybites.py)                                               |
@@ -206,6 +207,7 @@
 | [Triangle Area](https://open.kattis.com/problems/triarea)                                                   | `python` | [triarea](solutions/triarea.py)                                                   |
 | [Trik](https://open.kattis.com/problems/trik)                                                               | `java`   | [trik](solutions/trik.java)                                                       |
 | [Triple Sevens](https://open.kattis.com/problems/triplesevens)                                              | `python` | [triplesevens](solutions/triplesevens.py)                                         |
+| [Turn It Up!](https://open.kattis.com/problems/skruop)                                                      | `CPP`    | [skruop](solutions/skruop.cpp)                                                    |
 | [Two-sum](https://open.kattis.com/problems/twosum)                                                          | `python` | [twosum](solutions/twosum.py)                                                     |
 | [Tölvunarfræðingar telja](https://open.kattis.com/problems/tolvunarfraedingartelja)                         | `kotlin` | [tolvunarfraedingartelja](solutions/tolvunarfraedingartelja.kt)                   |
 | [Umferð](https://open.kattis.com/problems/umferd)                                                           | `kotlin` | [umferd](solutions/umferd.kt)                                                     |
