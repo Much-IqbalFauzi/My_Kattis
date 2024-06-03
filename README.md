@@ -126,6 +126,7 @@
 | [Missing Numbers](https://open.kattis.com/problems/missingnumbers)                                          | `python` | [missingnumbers](solutions/missingnumbers.py)                                     |
 | [Mixed Fractions](https://open.kattis.com/problems/mixedfractions)                                          | `python` | [mixedfractions](solutions/mixedfractions.py)                                     |
 | [Modulo](https://open.kattis.com/problems/modulo)                                                           | `python` | [modulo](solutions/modulo.py)                                                     |
+| [Mylla](https://open.kattis.com/problems/mylla2)                                                            | `CPP`    | [mylla2](solutions/mylla2.cpp)                                                    |
 | [N-sum](https://open.kattis.com/problems/nsum)                                                              | `python` | [nsum](solutions/nsum.py)                                                         |
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks)                                                  | `java`   | [nastyhacks](solutions/nastyhack.java)                                            |
 | [No Duplicates](https://open.kattis.com/problems/nodup)                                                     | `python` | [nodup](solutions/nodup.py)                                                       |
@@ -186,6 +187,7 @@
 | [Spavanac](https://open.kattis.com/problems/spavanac)                                                       | `java`   | [spavanac](solutions/spavanac.java)                                               |
 | [Speed Limit](https://open.kattis.com/problems/speedlimit)                                                  | `java`   | [speedlimit](solutions/speedlimit.java)                                           |
 | [Spritt](https://open.kattis.com/problems/spritt)                                                           | `kotlin` | [spritt](solutions/spritt.kt)                                                     |
+| [Stafur](https://open.kattis.com/problems/stafur)                                                           | `CPP`    | [stafur](solutions/stafur.cpp)                                                    |
 | [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar)                                              | `CPP`    | [zanzibar](solutions/zanzibar.cpp)                                                |
 | [Statistics](https://open.kattis.com/problems/statistics)                                                   | `python` | [statistics](solutions/statistics.py)                                             |
 | [Sticky Keys](https://open.kattis.com/problems/stickykeys)                                                  | `CPP`    | [stickykeys](solutions/stickykeys.cpp)                                            |
