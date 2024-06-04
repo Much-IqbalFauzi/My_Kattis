@@ -29,6 +29,7 @@
 | [Besta gjöfin](https://open.kattis.com/problems/bestagjofin)                                                | `CPP`    | [bestagjofin](solutions/bestagjofin.cpp)                                          |
 | [Betting](https://open.kattis.com/problems/betting)                                                         | `kotlin` | [betting](solutions/betting.kt)                                                   |
 | [Bijele](https://open.kattis.com/problems/bijele)                                                           | `C`      | [bijele](solutions/bjele.c)                                                       |
+| [Bilað Lyklaborð](https://open.kattis.com/problems/biladlyklabord)                                          | `CPP`    | [biladlyklabord](solutions/biladlyklabord.cpp)                                    |
 | [Bitte ein Bit](https://open.kattis.com/problems/bitteeinbit)                                               | `CPP`    | [bitteeinbit](solutions/bitteeinbit.cpp)                                          |
 | [Blandað Best](https://open.kattis.com/problems/blandadbest)                                                | `CPP`    | [blandadbest](solutions/blandadbest.cpp)                                          |
 | [Blaðra](https://open.kattis.com/problems/bladra2)                                                          | `CPP`    | [bladra2](solutions/bladra2.cpp)                                                  |
