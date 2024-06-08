@@ -1,12 +1,14 @@
 #include "iostream"
-#include <algorithm>
 
 using namespace std;
 
 int main() {
     int n, total = 0;
     cin >> n;
-    int com[] = {0,0,0};
+
+    int cpu = 0;
+    int ram = 0;
+    int hdd = 0;
 
     for (int i=0; i<n; i++) {
         for (int j=0; j<3; j++) {
@@ -17,17 +19,22 @@ int main() {
             }
 
             if (j==0) {
-                com[0] += 1;
+                cpu ++;
             } else if (j==1) {
-                com[1] += 1;
-            } else {
-                com[2] += 1;
+                ram ++;
+            } else if (j==2) {
+                hdd ++;
             }
         }
     }
 
-    int size = sizeof(com) / sizeof(com[0]);
-    sort(com, com + n);
 
-    cout << com [0] << endl;
+    if (cpu <= ram && cpu <= hdd) {
+        cout << cpu << endl;
+    } else if (ram <= cpu && ram <= hdd) {
+        cout << ram << endl;
+    } else {
+        cout << hdd << endl;
+    }
+
 }

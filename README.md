@@ -205,6 +205,7 @@
 | [The Easiest Problem Is This One](https://open.kattis.com/problems/easiest)                                 | `CPP`    | [easiest](solutions/easiest.cpp)                                                  |
 | [The Owl and the Fox](https://open.kattis.com/problems/owlandfox)                                           | `python` | [owlandfox](solutions/owlandfox.py)                                               |
 | [This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard) | `python` | [thisaintyourgrandpascheckerboard](solutions/thisaintyourgrandpascheckerboard.py) |
+| [Three in a Row](https://open.kattis.com/problems/treirad)                                                  | `CPP`    | [treirad](solutions/treirad.cpp)                                                  |
 | [Til hamingju](https://open.kattis.com/problems/tilhamingju)                                                | `CPP`    | [tilhamingju](solutions/tilhamingju.cpp)                                          |
 | [ToLower](https://open.kattis.com/problems/tolower)                                                         | `python` | [tolower](solutions/tolower.py)                                                   |
 | [Tok Tik](https://open.kattis.com/problems/toktik)                                                          | `CPP`    | [toktik](solutions/toktik.cpp)                                                    |
@@ -220,6 +221,7 @@
 | [Un-bear-able Zoo](https://open.kattis.com/problems/zoo)                                                    | `python` | [zoo](solutions/zoo.py)                                                           |
 | [Undead or Alive](https://open.kattis.com/problems/undeadoralive)                                           | `CPP`    | [undeadoralive](solutions/undeadoralive.cpp)                                      |
 | [Vauvau](https://open.kattis.com/problems/vauvau)                                                           | `python` | [vauvau](solutions/vauvau.py)                                                     |
+| [Vefþjónatjón](https://open.kattis.com/problems/vefthjonatjon)                                              | `CPP`    | [vefthjonatjon](solutions/vefthjonatjon.cpp)                                      |
 | [Velkomin!](https://open.kattis.com/problems/velkomin)                                                      | `kotlin` | [velkomin](solutions/velkomin.kt)                                                 |
 | [Veður - Lokaðar heiðar](https://open.kattis.com/problems/vedurheidar)                                      | `kotlin` | [vedurheidar](solutions/vedurheidar.kt)                                           |
 | [Veður - Vindhraði](https://open.kattis.com/problems/vedurvindhradi)                                        | `CPP`    | [vedurvindhradi](solutions/vedurvindhradi.cpp)                                    |
