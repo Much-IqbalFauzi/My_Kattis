@@ -93,6 +93,7 @@
 | [Hipp Hipp](https://open.kattis.com/problems/hipphipp)                                                      | `CPP`    | [hipphipp](solutions/hipphipp.cpp)                                                |
 | [Hipp Hipp Húrra](https://open.kattis.com/problems/hipphipphurra)                                           | `CPP`    | [hipphipphurra](solutions/hipphipphurra.cpp)                                      |
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)                                    | `java`   | [hissingmicrophone](solutions/hissingmicrophone.java)                             |
+| [Hitting the Targets](https://open.kattis.com/problems/hittingtargets)                                      | `CPP`    | [hittingtargets](solutions/hittingtargets.cpp)                                    |
 | [Homework](https://open.kattis.com/problems/heimavinna)                                                     | `python` | [heimavinna](solutions/heimavinna.py)                                             |
 | [Hraðgreining](https://open.kattis.com/problems/hradgreining)                                               | `kotlin` | [hradgreining](solutions/hradgreining.kt)                                         |
 | [Hvert Skal Mæta?](https://open.kattis.com/problems/hvertskalmaeta)                                         | `CPP`    | [hvertskalmaeta](solutions/hvertskalmaeta.cpp)                                    |
