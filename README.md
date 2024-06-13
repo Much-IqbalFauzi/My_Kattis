@@ -191,6 +191,7 @@
 | [Spavanac](https://open.kattis.com/problems/spavanac)                                                       | `java`   | [spavanac](solutions/spavanac.java)                                               |
 | [Speed Limit](https://open.kattis.com/problems/speedlimit)                                                  | `java`   | [speedlimit](solutions/speedlimit.java)                                           |
 | [Spritt](https://open.kattis.com/problems/spritt)                                                           | `kotlin` | [spritt](solutions/spritt.kt)                                                     |
+| [Stacking Cups](https://open.kattis.com/problems/cups)                                                      | `CPP`    | [cups](solutions/cups.cpp)                                                        |
 | [Stafur](https://open.kattis.com/problems/stafur)                                                           | `CPP`    | [stafur](solutions/stafur.cpp)                                                    |
 | [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar)                                              | `CPP`    | [zanzibar](solutions/zanzibar.cpp)                                                |
 | [Statistics](https://open.kattis.com/problems/statistics)                                                   | `python` | [statistics](solutions/statistics.py)                                             |
