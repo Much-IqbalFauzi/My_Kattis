@@ -15,6 +15,7 @@
 | [Above Average](https://open.kattis.com/problems/aboveaverage)                                              | `python` | [aboveaverage](solutions/aboveaverage.py)                                         |
 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)                                           | `python` | [addtwonumbers](solutions/addtwonumbers.py)                                       |
 | [Adding Trouble](https://open.kattis.com/problems/addingtrouble)                                            | `kotlin` | [addingtrouble](solutions/addingtrouble.kt)                                       |
+| [Adding Words](https://open.kattis.com/problems/addingwords)                                                | `CPP`    | [addingwords](solutions/addingwords.cpp)                                          |
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam)                                              | `python` | [alphabetspam](solutions/alphabetspam.py)                                         |
 | [Amerískur vinnustaður](https://open.kattis.com/problems/ameriskur)                                         | `kotlin` | [ameriskur](solutions/ameriskur.kt)                                               |
 | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)                                         | `python` | [apaxiaaans](solutions/apaxiaaans.py)                                             |
