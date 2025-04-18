@@ -66,6 +66,7 @@
 | [Ekki dauði opna inni](https://open.kattis.com/problems/ekkidaudi)                                          | `python` | [ekkidaudi](solutions/ekkidaudi.py)                                               |
 | [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets)                                    | `python` | [electricaloutlets](solutions/electricaloutlets.py)                               |
 | [Encoded Message](https://open.kattis.com/problems/encodedmessage)                                          | `python` | [encodedmessage](solutions/encodedmessage.py)                                     |
+| [Enjoy Your Repast!](https://open.kattis.com/problems/verditheradgodu)                                      | `CPP`    | [verditheradgodu](solutions/verditheradgodu.cpp)                                  |
 | [Erase Securely](https://open.kattis.com/problems/erase)                                                    | `python` | [erase](solutions/erase.py)                                                       |
 | [Eye of Sauron](https://open.kattis.com/problems/eyeofsauron)                                               | `python` | [eyeofsauron](solutions/eyeofsauron.py)                                           |
 | [FYI](https://open.kattis.com/problems/fyi)                                                                 | `python` | [fyi](solutions/fyi.py)                                                           |
@@ -204,6 +205,8 @@
 | [Symmetric Order](https://open.kattis.com/problems/symmetricorder)                                          | `python` | [symmetricorder](solutions/symmetricorder.py)                                     |
 | [Sóttkví](https://open.kattis.com/problems/sottkvi)                                                         | `CPP`    | [sottkvi](solutions/sottkvi.cpp)                                                  |
 | [Take Two Stones](https://open.kattis.com/problems/twostones)                                               | `python` | [twostones](solutions/twostones.py)                                               |
+| [Takk fyrir mig](https://open.kattis.com/problems/takkfyrirmig)                                             | `CPP`    | [takkfyrirmig](solutions/takkfyrirmig.cpp)                                        |
+| [Takkar](https://open.kattis.com/problems/takkar)                                                           | `CPP`    | [takkar](solutions/takkar.cpp)                                                    |
 | [Tarifa](https://open.kattis.com/problems/tarifa)                                                           | `java`   | [tarifa](solutions/tarifa.java)                                                   |
 | [Telja](https://open.kattis.com/problems/telja)                                                             | `CPP`    | [telja](solutions/telja.cpp)                                                      |
 | [The Easiest Problem Is This One](https://open.kattis.com/problems/easiest)                                 | `CPP`    | [easiest](solutions/easiest.cpp)                                                  |
