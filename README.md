@@ -205,6 +205,7 @@
 | [Sóttkví](https://open.kattis.com/problems/sottkvi)                                                         | `CPP`    | [sottkvi](solutions/sottkvi.cpp)                                                  |
 | [Take Two Stones](https://open.kattis.com/problems/twostones)                                               | `python` | [twostones](solutions/twostones.py)                                               |
 | [Tarifa](https://open.kattis.com/problems/tarifa)                                                           | `java`   | [tarifa](solutions/tarifa.java)                                                   |
+| [Telja](https://open.kattis.com/problems/telja)                                                             | `CPP`    | [telja](solutions/telja.cpp)                                                      |
 | [The Easiest Problem Is This One](https://open.kattis.com/problems/easiest)                                 | `CPP`    | [easiest](solutions/easiest.cpp)                                                  |
 | [The Owl and the Fox](https://open.kattis.com/problems/owlandfox)                                           | `python` | [owlandfox](solutions/owlandfox.py)                                               |
 | [This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard) | `python` | [thisaintyourgrandpascheckerboard](solutions/thisaintyourgrandpascheckerboard.py) |

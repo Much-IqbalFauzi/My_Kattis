@@ -1,3 +1,5 @@
 .idea
 runKotlin.sh
-solutions/outgcc
+*/outgcc
+outgcc
+*.out
