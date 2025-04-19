@@ -9,6 +9,7 @@
 | [A Different Problem](https://open.kattis.com/problems/different)                                           | `python` | [different](solutions/different.py)                                               |
 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet)                                             | `python` | [anewalphabet](solutions/anewalphabet.py)                                         |
 | [A Real Challenge](https://open.kattis.com/problems/areal)                                                  | `python` | [areal](solutions/areal.py)                                                       |
+| [A Shortcut to What?](https://open.kattis.com/problems/shortcuttowhat)                                      | `CPP`    | [shortcuttowhat](solutions/shortcuttowhat.cpp)                                    |
 | [ABC](https://open.kattis.com/problems/abc)                                                                 | `python` | [abc](solutions/abc.py)                                                           |
 | [ASCII kassi](https://open.kattis.com/problems/asciikassi)                                                  | `CPP`    | [asciikassi](solutions/asciikassi.cpp)                                            |
 | [Aaah!](https://open.kattis.com/problems/aaah)                                                              | `python` | [aaah](solutions/aaah.py)                                                         |
@@ -16,6 +17,7 @@
 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)                                           | `python` | [addtwonumbers](solutions/addtwonumbers.py)                                       |
 | [Adding Trouble](https://open.kattis.com/problems/addingtrouble)                                            | `kotlin` | [addingtrouble](solutions/addingtrouble.kt)                                       |
 | [Adding Words](https://open.kattis.com/problems/addingwords)                                                | `CPP`    | [addingwords](solutions/addingwords.cpp)                                          |
+| [Aldur](https://open.kattis.com/problems/aldur)                                                             | `CPP`    | [aldur](solutions/aldur.cpp)                                                      |
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam)                                              | `python` | [alphabetspam](solutions/alphabetspam.py)                                         |
 | [Amerískur vinnustaður](https://open.kattis.com/problems/ameriskur)                                         | `kotlin` | [ameriskur](solutions/ameriskur.kt)                                               |
 | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)                                         | `python` | [apaxiaaans](solutions/apaxiaaans.py)                                             |
