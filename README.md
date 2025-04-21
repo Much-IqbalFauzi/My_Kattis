@@ -29,6 +29,7 @@
 | [Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone)                                | `python` | [basketballoneonone](solutions/basketballoneonone.py)                             |
 | [Batter Up](https://open.kattis.com/problems/batterup)                                                      | `python` | [batterup](solutions/batterup.py)                                                 |
 | [Bela](https://open.kattis.com/problems/bela)                                                               | `CPP`    | [bela](solutions/bela.cpp)                                                        |
+| [BergMál](https://open.kattis.com/problems/bergmal)                                                         | `CPP`    | [bergmal](solutions/bergmal.cpp)                                                  |
 | [Besta gjöfin](https://open.kattis.com/problems/bestagjofin)                                                | `CPP`    | [bestagjofin](solutions/bestagjofin.cpp)                                          |
 | [Betting](https://open.kattis.com/problems/betting)                                                         | `kotlin` | [betting](solutions/betting.kt)                                                   |
 | [Bijele](https://open.kattis.com/problems/bijele)                                                           | `C`      | [bijele](solutions/bjele.c)                                                       |
