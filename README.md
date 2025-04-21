@@ -54,6 +54,7 @@
 | [Costume Contest](https://open.kattis.com/problems/costumecontest)                                          | `python` | [costumecontest](solutions/costumecontest.py)                                     |
 | [Count the Vowels](https://open.kattis.com/problems/countthevowels)                                         | `python` | [countthevowels](solutions/countthevowels.py)                                     |
 | [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)                                     | `python` | [conundrum](solutions/conundrum.py)                                               |
+| [Dagatal](https://open.kattis.com/problems/dagatal)                                                         | `CPP`    | [dagatal](solutions/dagatal.cpp)                                                  |
 | [Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights)                                      | `python` | [dasblinkenlights](solutions/dasblinkenlights.py)                                 |
 | [Datum](https://open.kattis.com/problems/datum)                                                             | `python` | [datum](solutions/datum.py)                                                       |
 | [Death Knight Hero](https://open.kattis.com/problems/datum)                                                 | `CPP`    | [datum](solutions/datum.py)                                                       |
