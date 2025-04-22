@@ -57,7 +57,8 @@
 | [Dagatal](https://open.kattis.com/problems/dagatal)                                                         | `CPP`    | [dagatal](solutions/dagatal.cpp)                                                  |
 | [Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights)                                      | `python` | [dasblinkenlights](solutions/dasblinkenlights.py)                                 |
 | [Datum](https://open.kattis.com/problems/datum)                                                             | `python` | [datum](solutions/datum.py)                                                       |
-| [Death Knight Hero](https://open.kattis.com/problems/datum)                                                 | `CPP`    | [datum](solutions/datum.py)                                                       |
+| [Death Knight Hero](https://open.kattis.com/problems/deathknight)                                           | `CPP`    | [deathknight](solutions/deathknight.cpp)                                          |
+| [Decimal deletion](https://open.kattis.com/problems/decimaldeletion)                                        | `CPP`    | [decimaldeletion](solutions/decimaldeletion.cpp)                                  |
 | [Detailed Differences](https://open.kattis.com/problems/detaileddifferences)                                | `python` | [detaileddifferences](solutions/detaileddifferences.py)                           |
 | [Dice Cup](https://open.kattis.com/problems/dicecup)                                                        | `java`   | [dicecup](solutions/dicecup.java)                                                 |
 | [Dice Game](https://open.kattis.com/problems/dicegame)                                                      | `python` | [dicegame](solutions/dicegame.py)                                                 |
