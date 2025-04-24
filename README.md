@@ -51,6 +51,7 @@
 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah)                                             | `python` | [chanukah](solutions/chanukah.py)                                                 |
 | [Class Field Trip](https://open.kattis.com/problems/classfieldtrip)                                         | `CPP`    | [classfieldtrip](solutions/classfieldtrip.cpp)                                    |
 | [Cold-puter Science](https://open.kattis.com/problems/cold)                                                 | `python` | [cold](solutions/cold.py)                                                         |
+| [Concatenate](https://open.kattis.com/problems/skeytasaman)                                                 | `CPP`    | [skeytasaman](solutions/skeytasaman.cpp)                                          |
 | [Costume Contest](https://open.kattis.com/problems/costumecontest)                                          | `python` | [costumecontest](solutions/costumecontest.py)                                     |
 | [Count the Vowels](https://open.kattis.com/problems/countthevowels)                                         | `python` | [countthevowels](solutions/countthevowels.py)                                     |
 | [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)                                     | `python` | [conundrum](solutions/conundrum.py)                                               |
