@@ -88,6 +88,7 @@
 | [Framtíðar FIFA](https://open.kattis.com/problems/fifa)                                                     | `kotlin` | [fifa](solutions/fifa.kt)                                                         |
 | [Free Food](https://open.kattis.com/problems/freefood)                                                      | `python` | [freefood](solutions/freefood.py)                                                 |
 | [GCVWR](https://open.kattis.com/problems/gcvwr)                                                             | `python` | [gcvwr](solutions/gcvwr.py)                                                       |
+| [Gluttonous George](https://open.kattis.com/problems/goggi)                                                             | `CPP` | [goggi](solutions/goggi.cpp)                                                       |
 | [Goomba Stacks](https://open.kattis.com/problems/goombastacks)                                              | `CPP`    | [goombastacks](solutions/goombastacks.cpp)                                        |
 | [Grading](https://open.kattis.com/problems/grading)                                                         | `python` | [grading](solutions/grading.py)                                                   |
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed)                                               | `java`   | [grassseed](solutions/grassseed.java)                                             |
