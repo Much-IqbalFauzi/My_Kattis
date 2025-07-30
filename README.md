@@ -10,6 +10,7 @@
 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet)                                             | `python` | [anewalphabet](solutions/anewalphabet.py)                                         |
 | [A Real Challenge](https://open.kattis.com/problems/areal)                                                  | `python` | [areal](solutions/areal.py)                                                       |
 | [A Shortcut to What?](https://open.kattis.com/problems/shortcuttowhat)                                      | `CPP`    | [shortcuttowhat](solutions/shortcuttowhat.cpp)                                    |
+| [A Terrible Fortress](https://open.kattis.com/problems/aterriblefortress)                                      | `CPP`    | [aterriblefortress](solutions/aterriblefortress.cpp)                                    |
 | [ABC](https://open.kattis.com/problems/abc)                                                                 | `python` | [abc](solutions/abc.py)                                                           |
 | [ASCII kassi](https://open.kattis.com/problems/asciikassi)                                                  | `CPP`    | [asciikassi](solutions/asciikassi.cpp)                                            |
 | [Aaah!](https://open.kattis.com/problems/aaah)                                                              | `python` | [aaah](solutions/aaah.py)                                                         |
@@ -191,6 +192,7 @@
 | [Skammstöfun](https://open.kattis.com/problems/skammstofun)                                                 | `CPP`    | [skammstofun](solutions/skammstofun.cpp)                                          |
 | [Skener](https://open.kattis.com/problems/skener)                                                           | `python` | [skener](solutions/skener.py)                                                     |
 | [Skocimis](https://open.kattis.com/problems/skocimis)                                                       | `CPP`    | [skocimis](solutions/skocimis.cpp)                                                |
+| [Skák](https://open.kattis.com/problems/skak)                                                       | `CPP`    | [skak](solutions/skak.cpp)                                                |
 | [Soda Slurper](https://open.kattis.com/problems/sodaslurper)                                                | `python` | [sodaslurper](solutions/sodaslurper.py)                                           |
 | [Sok](https://open.kattis.com/problems/sok)                                                                 | `python` | [sok](solutions/sok.py)                                                           |
 | [Solving for Carrots](https://open.kattis.com/problems/carrots)                                             | `java`   | [carrots](solutions/carrots.java)                                                 |
