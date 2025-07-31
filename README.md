@@ -128,6 +128,7 @@
 | [Laptop Sticker](https://open.kattis.com/problems/laptopsticker)                                            | `python` | [laptopsticker](solutions/laptopsticker.py)                                       |
 | [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit)                                 | `java`   | [lastfactorialdigit](solutions/lastfactoraldigit.java)                            |
 | [Leggja saman](https://open.kattis.com/problems/leggjasaman)                                                | `kotlin` | [leggjasaman](solutions/leggjasaman.kt)                                           |
+| [Leyniþjónusta](https://open.kattis.com/problems/leynithjonusta)                                                | `CPP` | [leynithjonusta](solutions/leynithjonusta.cpp)                                           |
 | [Line Them Up](https://open.kattis.com/problems/lineup)                                                     | `python` | [lineup](solutions/lineup.py)                                                     |
 | [Lubbi Lærir](https://open.kattis.com/problems/lubbilaerir)                                                 | `CPP`    | [lubbilaerir](solutions/lubbilaerir.cpp)                                          |
 | [Magic Trick](https://open.kattis.com/problems/magictrick)                                                  | `python` | [magictrick](solutions/magictrick.py)                                             |
