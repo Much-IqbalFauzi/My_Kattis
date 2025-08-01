@@ -161,6 +161,7 @@
 | [Pot](https://open.kattis.com/problems/pot)                                                                 | `java`   | [pot](solutions/pot.java)                                                         |
 | [Powers and Modulus](https://open.kattis.com/problems/powers)                                               | `python` | [powers](solutions/powers.py)                                                     |
 | [Preludes](https://open.kattis.com/problems/chopin)                                                         | `python` | [chopin](solutions/chopin.py)                                                     |
+| [Programmeringsolympiaden's Budget](https://open.kattis.com/problems/pobudget)                                                         | `CPP` | [pobudget](solutions/pobudget.cpp)                                                     |
 | [Ptice](https://open.kattis.com/problems/ptice)                                                             | `CPP`    | [ptice](solutions/ptice.cpp)                                                      |
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant)                                             | `java`   | [quadrant](solutions/quadrant.java)                                               |
 | [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)                                         | `C`      | [qaly](solutions/qaly.c)                                                          |
