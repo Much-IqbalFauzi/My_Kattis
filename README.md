@@ -100,6 +100,7 @@
 | [Hello World!](https://open.kattis.com/problems/hello)                                                      | `java`   | [hello](solutions/hello.java)                                                     |
 | [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd)                                      | `python` | [helpaphd](solutions/helpaphd.py)                                                 |
 | [Herman](https://open.kattis.com/problems/herman)                                                           | `python` | [herman](solutions/herman.py)                                                     |
+| [Heysáta](https://open.kattis.com/problems/heysata)                                                           | `CPP` | [heysata](solutions/heysata.cpp)                                                     |
 | [Hipp Hipp](https://open.kattis.com/problems/hipphipp)                                                      | `CPP`    | [hipphipp](solutions/hipphipp.cpp)                                                |
 | [Hipp Hipp Húrra](https://open.kattis.com/problems/hipphipphurra)                                           | `CPP`    | [hipphipphurra](solutions/hipphipphurra.cpp)                                      |
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)                                    | `java`   | [hissingmicrophone](solutions/hissingmicrophone.java)                             |
