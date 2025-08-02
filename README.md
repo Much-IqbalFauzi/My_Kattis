@@ -27,6 +27,7 @@
 | [Avion](https://open.kattis.com/problems/avion)                                                             | `python` | [avion](solutions/avion.py)                                                       |
 | [Baby Bites](https://open.kattis.com/problems/babybites)                                                    | `python` | [babybites](solutions/babybites.py)                                               |
 | [Backspace](https://open.kattis.com/problems/backspace)                                                     | `python` | [backspace](solutions/backspace.py)                                               |
+| [Barcelona](https://open.kattis.com/problems/barcelona)                                                     | `CPP` | [barcelona](solutions/barcelona.cpp)                                               |
 | [Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone)                                | `python` | [basketballoneonone](solutions/basketballoneonone.py)                             |
 | [Batter Up](https://open.kattis.com/problems/batterup)                                                      | `python` | [batterup](solutions/batterup.py)                                                 |
 | [Bela](https://open.kattis.com/problems/bela)                                                               | `CPP`    | [bela](solutions/bela.cpp)                                                        |
