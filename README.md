@@ -225,6 +225,7 @@
 | [Telja](https://open.kattis.com/problems/telja)                                                             | `CPP`    | [telja](solutions/telja.cpp)                                                      |
 | [The Easiest Problem Is This One](https://open.kattis.com/problems/easiest)                                 | `CPP`    | [easiest](solutions/easiest.cpp)                                                  |
 | [The Owl and the Fox](https://open.kattis.com/problems/owlandfox)                                           | `python` | [owlandfox](solutions/owlandfox.py)                                               |
+| [The Triangle Factory](https://open.kattis.com/problems/triangelfabriken)                                   | `CPP`    | [triangelfabriken](solutions/triangelfabriken.cpp)                                |
 | [This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard) | `python` | [thisaintyourgrandpascheckerboard](solutions/thisaintyourgrandpascheckerboard.py) |
 | [Three in a Row](https://open.kattis.com/problems/treirad)                                                  | `CPP`    | [treirad](solutions/treirad.cpp)                                                  |
 | [Til hamingju](https://open.kattis.com/problems/tilhamingju)                                                | `CPP`    | [tilhamingju](solutions/tilhamingju.cpp)                                          |
