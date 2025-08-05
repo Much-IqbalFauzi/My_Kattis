@@ -3,3 +3,4 @@ runKotlin.sh
 */outgcc
 outgcc
 *.out
+.vscode/*

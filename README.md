@@ -10,7 +10,7 @@
 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet)                                             | `python` | [anewalphabet](solutions/anewalphabet.py)                                         |
 | [A Real Challenge](https://open.kattis.com/problems/areal)                                                  | `python` | [areal](solutions/areal.py)                                                       |
 | [A Shortcut to What?](https://open.kattis.com/problems/shortcuttowhat)                                      | `CPP`    | [shortcuttowhat](solutions/shortcuttowhat.cpp)                                    |
-| [A Terrible Fortress](https://open.kattis.com/problems/aterriblefortress)                                      | `CPP`    | [aterriblefortress](solutions/aterriblefortress.cpp)                                    |
+| [A Terrible Fortress](https://open.kattis.com/problems/aterriblefortress)                                   | `CPP`    | [aterriblefortress](solutions/aterriblefortress.cpp)                              |
 | [ABC](https://open.kattis.com/problems/abc)                                                                 | `python` | [abc](solutions/abc.py)                                                           |
 | [ASCII kassi](https://open.kattis.com/problems/asciikassi)                                                  | `CPP`    | [asciikassi](solutions/asciikassi.cpp)                                            |
 | [Aaah!](https://open.kattis.com/problems/aaah)                                                              | `python` | [aaah](solutions/aaah.py)                                                         |
@@ -27,7 +27,7 @@
 | [Avion](https://open.kattis.com/problems/avion)                                                             | `python` | [avion](solutions/avion.py)                                                       |
 | [Baby Bites](https://open.kattis.com/problems/babybites)                                                    | `python` | [babybites](solutions/babybites.py)                                               |
 | [Backspace](https://open.kattis.com/problems/backspace)                                                     | `python` | [backspace](solutions/backspace.py)                                               |
-| [Barcelona](https://open.kattis.com/problems/barcelona)                                                     | `CPP` | [barcelona](solutions/barcelona.cpp)                                               |
+| [Barcelona](https://open.kattis.com/problems/barcelona)                                                     | `CPP`    | [barcelona](solutions/barcelona.cpp)                                              |
 | [Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone)                                | `python` | [basketballoneonone](solutions/basketballoneonone.py)                             |
 | [Batter Up](https://open.kattis.com/problems/batterup)                                                      | `python` | [batterup](solutions/batterup.py)                                                 |
 | [Bela](https://open.kattis.com/problems/bela)                                                               | `CPP`    | [bela](solutions/bela.cpp)                                                        |
@@ -90,7 +90,7 @@
 | [Framtíðar FIFA](https://open.kattis.com/problems/fifa)                                                     | `kotlin` | [fifa](solutions/fifa.kt)                                                         |
 | [Free Food](https://open.kattis.com/problems/freefood)                                                      | `python` | [freefood](solutions/freefood.py)                                                 |
 | [GCVWR](https://open.kattis.com/problems/gcvwr)                                                             | `python` | [gcvwr](solutions/gcvwr.py)                                                       |
-| [Gluttonous George](https://open.kattis.com/problems/goggi)                                                             | `CPP` | [goggi](solutions/goggi.cpp)                                                       |
+| [Gluttonous George](https://open.kattis.com/problems/goggi)                                                 | `CPP`    | [goggi](solutions/goggi.cpp)                                                      |
 | [Goomba Stacks](https://open.kattis.com/problems/goombastacks)                                              | `CPP`    | [goombastacks](solutions/goombastacks.cpp)                                        |
 | [Grading](https://open.kattis.com/problems/grading)                                                         | `python` | [grading](solutions/grading.py)                                                   |
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed)                                               | `java`   | [grassseed](solutions/grassseed.java)                                             |
@@ -101,7 +101,7 @@
 | [Hello World!](https://open.kattis.com/problems/hello)                                                      | `java`   | [hello](solutions/hello.java)                                                     |
 | [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd)                                      | `python` | [helpaphd](solutions/helpaphd.py)                                                 |
 | [Herman](https://open.kattis.com/problems/herman)                                                           | `python` | [herman](solutions/herman.py)                                                     |
-| [Heysáta](https://open.kattis.com/problems/heysata)                                                           | `CPP` | [heysata](solutions/heysata.cpp)                                                     |
+| [Heysáta](https://open.kattis.com/problems/heysata)                                                         | `CPP`    | [heysata](solutions/heysata.cpp)                                                  |
 | [Hipp Hipp](https://open.kattis.com/problems/hipphipp)                                                      | `CPP`    | [hipphipp](solutions/hipphipp.cpp)                                                |
 | [Hipp Hipp Húrra](https://open.kattis.com/problems/hipphipphurra)                                           | `CPP`    | [hipphipphurra](solutions/hipphipphurra.cpp)                                      |
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)                                    | `java`   | [hissingmicrophone](solutions/hissingmicrophone.java)                             |
@@ -130,7 +130,7 @@
 | [Laptop Sticker](https://open.kattis.com/problems/laptopsticker)                                            | `python` | [laptopsticker](solutions/laptopsticker.py)                                       |
 | [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit)                                 | `java`   | [lastfactorialdigit](solutions/lastfactoraldigit.java)                            |
 | [Leggja saman](https://open.kattis.com/problems/leggjasaman)                                                | `kotlin` | [leggjasaman](solutions/leggjasaman.kt)                                           |
-| [Leyniþjónusta](https://open.kattis.com/problems/leynithjonusta)                                                | `CPP` | [leynithjonusta](solutions/leynithjonusta.cpp)                                           |
+| [Leyniþjónusta](https://open.kattis.com/problems/leynithjonusta)                                            | `CPP`    | [leynithjonusta](solutions/leynithjonusta.cpp)                                    |
 | [Line Them Up](https://open.kattis.com/problems/lineup)                                                     | `python` | [lineup](solutions/lineup.py)                                                     |
 | [Lubbi Lærir](https://open.kattis.com/problems/lubbilaerir)                                                 | `CPP`    | [lubbilaerir](solutions/lubbilaerir.cpp)                                          |
 | [Magic Trick](https://open.kattis.com/problems/magictrick)                                                  | `python` | [magictrick](solutions/magictrick.py)                                             |
@@ -141,6 +141,7 @@
 | [Missing Numbers](https://open.kattis.com/problems/missingnumbers)                                          | `python` | [missingnumbers](solutions/missingnumbers.py)                                     |
 | [Mixed Fractions](https://open.kattis.com/problems/mixedfractions)                                          | `python` | [mixedfractions](solutions/mixedfractions.py)                                     |
 | [Modulo](https://open.kattis.com/problems/modulo)                                                           | `python` | [modulo](solutions/modulo.py)                                                     |
+| [Monopoly](https://open.kattis.com/problems/monopol)                                                        | `CPP`    | [monopol](solutions/monopol.cpp)                                                  |
 | [Mylla](https://open.kattis.com/problems/mylla2)                                                            | `CPP`    | [mylla2](solutions/mylla2.cpp)                                                    |
 | [N-sum](https://open.kattis.com/problems/nsum)                                                              | `python` | [nsum](solutions/nsum.py)                                                         |
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks)                                                  | `java`   | [nastyhacks](solutions/nastyhack.java)                                            |
@@ -163,7 +164,7 @@
 | [Pot](https://open.kattis.com/problems/pot)                                                                 | `java`   | [pot](solutions/pot.java)                                                         |
 | [Powers and Modulus](https://open.kattis.com/problems/powers)                                               | `python` | [powers](solutions/powers.py)                                                     |
 | [Preludes](https://open.kattis.com/problems/chopin)                                                         | `python` | [chopin](solutions/chopin.py)                                                     |
-| [Programmeringsolympiaden's Budget](https://open.kattis.com/problems/pobudget)                                                         | `CPP` | [pobudget](solutions/pobudget.cpp)                                                     |
+| [Programmeringsolympiaden's Budget](https://open.kattis.com/problems/pobudget)                              | `CPP`    | [pobudget](solutions/pobudget.cpp)                                                |
 | [Ptice](https://open.kattis.com/problems/ptice)                                                             | `CPP`    | [ptice](solutions/ptice.cpp)                                                      |
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant)                                             | `java`   | [quadrant](solutions/quadrant.java)                                               |
 | [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)                                         | `C`      | [qaly](solutions/qaly.c)                                                          |
@@ -196,7 +197,7 @@
 | [Skammstöfun](https://open.kattis.com/problems/skammstofun)                                                 | `CPP`    | [skammstofun](solutions/skammstofun.cpp)                                          |
 | [Skener](https://open.kattis.com/problems/skener)                                                           | `python` | [skener](solutions/skener.py)                                                     |
 | [Skocimis](https://open.kattis.com/problems/skocimis)                                                       | `CPP`    | [skocimis](solutions/skocimis.cpp)                                                |
-| [Skák](https://open.kattis.com/problems/skak)                                                       | `CPP`    | [skak](solutions/skak.cpp)                                                |
+| [Skák](https://open.kattis.com/problems/skak)                                                               | `CPP`    | [skak](solutions/skak.cpp)                                                        |
 | [Soda Slurper](https://open.kattis.com/problems/sodaslurper)                                                | `python` | [sodaslurper](solutions/sodaslurper.py)                                           |
 | [Sok](https://open.kattis.com/problems/sok)                                                                 | `python` | [sok](solutions/sok.py)                                                           |
 | [Solving for Carrots](https://open.kattis.com/problems/carrots)                                             | `java`   | [carrots](solutions/carrots.java)                                                 |
