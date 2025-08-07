@@ -248,6 +248,7 @@
 | [Veður - Lokaðar heiðar](https://open.kattis.com/problems/vedurheidar)                                      | `kotlin` | [vedurheidar](solutions/vedurheidar.kt)                                           |
 | [Veður - Vindhraði](https://open.kattis.com/problems/vedurvindhradi)                                        | `CPP`    | [vedurvindhradi](solutions/vedurvindhradi.cpp)                                    |
 | [Viðsnúningur](https://open.kattis.com/problems/vidsnuningur)                                               | `kotlin` | [vidsnuningur](solutions/vidsnuningur.kt)                                         |
+| [Wake up call](https://open.kattis.com/problems/wakeupcall)                                                 | `CPP`    | [wakeupcall](solutions/wakeupcall.cpp)                                            |
 | [Which is Greater?](https://open.kattis.com/problems/whichisgreater)                                        | `python` | [whichisgreater](solutions/whichisgreater.py)                                     |
 | [Zamka](https://open.kattis.com/problems/zamka)                                                             | `CPP`    | [zamka](solutions/zamka.cpp)                                                      |
 | [Á leið í bíó](https://open.kattis.com/problems/aleidibio)                                                  | `kotlin` | [aleidibio](solutions/aleidibio.kt)                                               |
