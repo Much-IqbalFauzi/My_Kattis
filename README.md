@@ -70,6 +70,7 @@
 | [Digit Swap](https://open.kattis.com/problems/digitswap)                                                    | `python` | [digitswap](solutions/digitswap.py)                                               |
 | [Divvying Up](https://open.kattis.com/problems/divvyingup)                                                  | `CPP`    | [divvyingup](solutions/divvyingup.cpp)                                            |
 | [Draga Frá](https://open.kattis.com/problems/dragafra)                                                      | `CPP`    | [dragafra](solutions/dragafra.cpp)                                                |
+| [E-Days Ore Cart Pull](https://open.kattis.com/problems/edays)                                              | `CPP`    | [edays](solutions/edays.cpp)                                                      |
 | [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)                                             | `python` | [echoechoecho](solutions/echoechoecho.py)                                         |
 | [Egypt](https://open.kattis.com/problems/egypt)                                                             | `python` | [egypt](solutions/egypt.py)                                                       |
 | [Ekki dauði opna inni](https://open.kattis.com/problems/ekkidaudi)                                          | `python` | [ekkidaudi](solutions/ekkidaudi.py)                                               |
