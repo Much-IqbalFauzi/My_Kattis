@@ -88,6 +88,7 @@
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)                                                       | `python` | [fizzbuzz](solutions/fizzbuzz.java)                                               |
 | [Fjöldi Bókstafa](https://open.kattis.com/problems/fjoldibokstafa)                                          | `CPP`    | [fjoldibokstafa](solutions/fjoldibokstafa.cpp)                                    |
 | [Flatbökuveisla](https://open.kattis.com/problems/flatbokuveisla)                                           | `kotlin` | [flatbokuveisla](solutions/flatbokuveisla.kt)                                     |
+| [Flatter Land](https://open.kattis.com/problems/flatterland)                                                | `CPP`    | [flatterland](solutions/flatterland.cpp)                                          |
 | [Flýtibaka](https://open.kattis.com/problems/flytibaka)                                                     | `kotlin` | [flytibaka](solutions/flytibaka.kt)                                               |
 | [Framtíðar FIFA](https://open.kattis.com/problems/fifa)                                                     | `kotlin` | [fifa](solutions/fifa.kt)                                                         |
 | [Free Food](https://open.kattis.com/problems/freefood)                                                      | `python` | [freefood](solutions/freefood.py)                                                 |
