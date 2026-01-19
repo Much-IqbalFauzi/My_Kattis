@@ -138,6 +138,7 @@
 | [Leyniþjónusta](https://open.kattis.com/problems/leynithjonusta)                                            | `CPP`    | [leynithjonusta](solutions/leynithjonusta.cpp)                                    |
 | [Line Them Up](https://open.kattis.com/problems/lineup)                                                     | `python` | [lineup](solutions/lineup.py)                                                     |
 | [Lubbi Lærir](https://open.kattis.com/problems/lubbilaerir)                                                 | `CPP`    | [lubbilaerir](solutions/lubbilaerir.cpp)                                          |
+| [M-Climb](https://open.kattis.com/problems/mclimb)                                                          | `CPP`    | [mclimb](solutions/mclimb.cpp)                                                    |
 | [Magic Trick](https://open.kattis.com/problems/magictrick)                                                  | `python` | [magictrick](solutions/magictrick.py)                                             |
 | [Message](https://open.kattis.com/problems/meddelande)                                                      | `CPP`    | [meddelande](solutions/meddelande.cpp)                                            |
 | [Metronome](https://open.kattis.com/problems/metronome)                                                     | `kotlin` | [metronome](solutions/metronome.kt)                                               |
