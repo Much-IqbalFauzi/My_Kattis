@@ -15,6 +15,7 @@
 | [ASCII kassi](https://open.kattis.com/problems/asciikassi)                                                  | `CPP`    | [asciikassi](solutions/asciikassi.cpp)                                            |
 | [Aaah!](https://open.kattis.com/problems/aaah)                                                              | `python` | [aaah](solutions/aaah.py)                                                         |
 | [Above Average](https://open.kattis.com/problems/aboveaverage)                                              | `python` | [aboveaverage](solutions/aboveaverage.py)                                         |
+| [Above Sea Level](https://open.kattis.com/problems/abovesealevel)                                           | `CPP`    | [abovesealevel](solutions/abovesealevel.cpp)                                      |
 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)                                           | `python` | [addtwonumbers](solutions/addtwonumbers.py)                                       |
 | [Adding Trouble](https://open.kattis.com/problems/addingtrouble)                                            | `kotlin` | [addingtrouble](solutions/addingtrouble.kt)                                       |
 | [Adding Words](https://open.kattis.com/problems/addingwords)                                                | `CPP`    | [addingwords](solutions/addingwords.cpp)                                          |
