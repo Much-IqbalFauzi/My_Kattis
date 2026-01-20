@@ -161,6 +161,7 @@
 | [Oktalni](https://open.kattis.com/problems/oktalni)                                                         | `python` | [oktalni](solutions/oktalni.py)                                                   |
 | [One Chicken Per Person!](https://open.kattis.com/problems/onechicken)                                      | `python` | [onechicken](solutions/onechicken.py)                                             |
 | [Parking](https://open.kattis.com/problems/parking)                                                         | `python` | [parking](solutions/parking.py)                                                   |
+| [Parking Pandemonium](https://open.kattis.com/problems/parkingpandemonium)                                  | `CPP`    | [parkingpandemonium](solutions/parkingpandemonium.cpp)                            |
 | [Patuljci](https://open.kattis.com/problems/patuljci)                                                       | `python` | [patuljci](solutions/patuljci.py)                                                 |
 | [Pet](https://open.kattis.com/problems/pet)                                                                 | `java`   | [pet](solutions/pet.java)                                                         |
 | [Phone List](https://open.kattis.com/problems/phonelist)                                                    | `CPP`    | [phonelist](solutions/phonelist.cpp)                                              |
