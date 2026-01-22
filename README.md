@@ -168,7 +168,8 @@
 | [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2)                                             | `python` | [pieceofcake2](solutions/pieceofcake2.py)                                         |
 | [Pizza Crust](https://open.kattis.com/problems/pizza2)                                                      | `python` | [pizza2](solutions/pizza2.py)                                                     |
 | [Planina](https://open.kattis.com/problems/planina)                                                         | `java`   | [planina](solutions/planina.java)                                                 |
-| [Poker Hand](https://open.kattis.com/problems/pokerhand)                                                    | `CPP`    | [pokerhand](solutions/pokerhand.java)                                             |
+| [Poker Hand](https://open.kattis.com/problems/pokerhand)                                                    | `CPP`    | [pokerhand](solutions/pokerhand.cpp)                                              |
+| [Pop Count](https://open.kattis.com/problems/popcount)                                                      | `CPP`    | [popcount](solutions/popcount.cpp)                                                |
 | [Pot](https://open.kattis.com/problems/pot)                                                                 | `java`   | [pot](solutions/pot.java)                                                         |
 | [Powers and Modulus](https://open.kattis.com/problems/powers)                                               | `python` | [powers](solutions/powers.py)                                                     |
 | [Preludes](https://open.kattis.com/problems/chopin)                                                         | `python` | [chopin](solutions/chopin.py)                                                     |
