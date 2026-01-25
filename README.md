@@ -205,6 +205,7 @@
 | [Sith](https://open.kattis.com/problems/sith)                                                               | `CPP`    | [sith](solutions/sith.cpp)                                                        |
 | [Skammstöfun](https://open.kattis.com/problems/skammstofun)                                                 | `CPP`    | [skammstofun](solutions/skammstofun.cpp)                                          |
 | [Skener](https://open.kattis.com/problems/skener)                                                           | `python` | [skener](solutions/skener.py)                                                     |
+| [Skip Counting](https://open.kattis.com/problems/counting)                                                  | `CPP`    | [counting](solutions/counting.cpp)                                                |
 | [Skocimis](https://open.kattis.com/problems/skocimis)                                                       | `CPP`    | [skocimis](solutions/skocimis.cpp)                                                |
 | [Skák](https://open.kattis.com/problems/skak)                                                               | `CPP`    | [skak](solutions/skak.cpp)                                                        |
 | [Soda Slurper](https://open.kattis.com/problems/sodaslurper)                                                | `python` | [sodaslurper](solutions/sodaslurper.py)                                           |
