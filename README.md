@@ -53,6 +53,7 @@
 | [Champernowne Verification](https://open.kattis.com/problems/champernowneverification)                      | `CPP`    | [champernowneverification](solutions/champernowneverification.cpp)                |
 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah)                                             | `python` | [chanukah](solutions/chanukah.py)                                                 |
 | [Class Field Trip](https://open.kattis.com/problems/classfieldtrip)                                         | `CPP`    | [classfieldtrip](solutions/classfieldtrip.cpp)                                    |
+| [Class Photo](https://open.kattis.com/problems/classphoto)                                                  | `CPP`    | [classphoto](solutions/classphoto.cpp)                                            |
 | [Cold-puter Science](https://open.kattis.com/problems/cold)                                                 | `python` | [cold](solutions/cold.py)                                                         |
 | [Concatenate](https://open.kattis.com/problems/skeytasaman)                                                 | `CPP`    | [skeytasaman](solutions/skeytasaman.cpp)                                          |
 | [Cosmic Path Optimization](https://open.kattis.com/problems/cosmicpathoptimization)                         | `CPP`    | [cosmicpathoptimization](solutions/cosmicpathoptimization.cpp)                    |
