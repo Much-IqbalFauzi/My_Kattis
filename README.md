@@ -48,6 +48,7 @@
 | [Bus Numbers](https://open.kattis.com/problems/busnumbers)                                                  | `CPP`    | [busnumbers](solutions/busnumbers.cpp)                                            |
 | [CD](https://open.kattis.com/problems/cd)                                                                   | `CPP`    | [cd](solutions/cd.cpp)                                                            |
 | [Candy Store](https://open.kattis.com/problems/candystore)                                                  | `CPP`    | [candystore](solutions/candystore.cpp)                                            |
+| [Cat in a Box](https://open.kattis.com/problems/catinabox)                                                  | `CPP`    | [catinabox](solutions/catinabox.cpp)                                              |
 | [Cetiri](https://open.kattis.com/problems/cetiri)                                                           | `python` | [cetiri](solutions/cetiri.py)                                                     |
 | [Cetvrta](https://open.kattis.com/problems/cetvrta)                                                         | `java`   | [cetvrta](solutions/cetvrta.java)                                                 |
 | [Champernowne Verification](https://open.kattis.com/problems/champernowneverification)                      | `CPP`    | [champernowneverification](solutions/champernowneverification.cpp)                |
