@@ -5,6 +5,7 @@
 
 | Problem                                                                                                     | Language | Solution                                                                          |
 | :---------------------------------------------------------------------------------------------------------- | :------- | :-------------------------------------------------------------------------------- |
+| [13 Floors](https://open.kattis.com/problems/13floors)                                                      | `CPP`    | [13floors](solutions/13floors.cpp)                                                |
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter)                                            | `python` | [3dprinter](solutions/3dprinter.py)                                               |
 | [A Different Problem](https://open.kattis.com/problems/different)                                           | `python` | [different](solutions/different.py)                                               |
 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet)                                             | `python` | [anewalphabet](solutions/anewalphabet.py)                                         |
