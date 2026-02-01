@@ -14,6 +14,7 @@
 | [A Terrible Fortress](https://open.kattis.com/problems/aterriblefortress)                                   | `CPP`    | [aterriblefortress](solutions/aterriblefortress.cpp)                              |
 | [ABC](https://open.kattis.com/problems/abc)                                                                 | `python` | [abc](solutions/abc.py)                                                           |
 | [ASCII kassi](https://open.kattis.com/problems/asciikassi)                                                  | `CPP`    | [asciikassi](solutions/asciikassi.cpp)                                            |
+| [ATM Maintenance](https://open.kattis.com/problems/atmmaintenance)                                          | `CPP`    | [atmmaintenance](solutions/atmmaintenance.cpp)                                    |
 | [Aaah!](https://open.kattis.com/problems/aaah)                                                              | `python` | [aaah](solutions/aaah.py)                                                         |
 | [Above Average](https://open.kattis.com/problems/aboveaverage)                                              | `python` | [aboveaverage](solutions/aboveaverage.py)                                         |
 | [Above Sea Level](https://open.kattis.com/problems/abovesealevel)                                           | `CPP`    | [abovesealevel](solutions/abovesealevel.cpp)                                      |
