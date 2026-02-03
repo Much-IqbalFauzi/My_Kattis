@@ -49,6 +49,7 @@
 | [Bus](https://open.kattis.com/problems/bus)                                                                 | `python` | [bus](solutions/bus.py)                                                           |
 | [Bus Numbers](https://open.kattis.com/problems/busnumbers)                                                  | `CPP`    | [busnumbers](solutions/busnumbers.cpp)                                            |
 | [CD](https://open.kattis.com/problems/cd)                                                                   | `CPP`    | [cd](solutions/cd.cpp)                                                            |
+| [Call for Problems](https://open.kattis.com/problems/callforproblems)                                       | `CPP`    | [callforproblems](solutions/callforproblems.cpp)                                  |
 | [Candy Store](https://open.kattis.com/problems/candystore)                                                  | `CPP`    | [candystore](solutions/candystore.cpp)                                            |
 | [Cat in a Box](https://open.kattis.com/problems/catinabox)                                                  | `CPP`    | [catinabox](solutions/catinabox.cpp)                                              |
 | [Cetiri](https://open.kattis.com/problems/cetiri)                                                           | `python` | [cetiri](solutions/cetiri.py)                                                     |
