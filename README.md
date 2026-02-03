@@ -105,6 +105,7 @@
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed)                                               | `java`   | [grassseed](solutions/grassseed.java)                                             |
 | [Greetings!](https://open.kattis.com/problems/greetings2)                                                   | `python` | [greetings2](solutions/greetings2.py)                                             |
 | [Hack-a-Holics](https://open.kattis.com/problems/hackaholics)                                               | `CPP`    | [hackaholics](solutions/hackaholics.cpp)                                          |
+| [Hair of the Dog](https://open.kattis.com/problems/hairofthedog)                                            | `CPP`    | [hairofthedog](solutions/hairofthedog.cpp)                                        |
 | [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout)                                   | `python` | [hangingout](solutions/hangingout.py)                                             |
 | [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers)                                          | `python` | [harshadnumbers](solutions/harshadnumbers.py)                                     |
 | [Heart Rate](https://open.kattis.com/problems/heartrate)                                                    | `CPP`    | [heartrate](solutions/heartrate.cpp)                                              |
