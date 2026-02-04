@@ -227,6 +227,7 @@
 | [Stafur](https://open.kattis.com/problems/stafur)                                                           | `CPP`    | [stafur](solutions/stafur.cpp)                                                    |
 | [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar)                                              | `CPP`    | [zanzibar](solutions/zanzibar.cpp)                                                |
 | [Statistics](https://open.kattis.com/problems/statistics)                                                   | `python` | [statistics](solutions/statistics.py)                                             |
+| [Staying Frosty](https://open.kattis.com/problems/stayingfrosty)                                            | `CPP`    | [stayingfrosty](solutions/stayingfrosty.cpp)                                      |
 | [Sticky Keys](https://open.kattis.com/problems/stickykeys)                                                  | `CPP`    | [stickykeys](solutions/stickykeys.cpp)                                            |
 | [Stopwatch](https://open.kattis.com/problems/stopwatch)                                                     | `python` | [stopwatch](solutions/stopwatch.py)                                               |
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)                                           | `java`   | [timeloop](solutions/timeloop.java)                                               |
