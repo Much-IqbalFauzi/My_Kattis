@@ -4,10 +4,15 @@
 using namespace std;
 
 int main() {
-    int n, total = 0;
-
+    int n, total = 0, sep = 3;
     cin >> n;
     vector<int> seq;
+
+    if (n%3 >= 2) {
+        sep = 2;
+    } else {
+        sep = 3;
+    }
 
     for (int i=1; i<=n; i++) {
         int c;
@@ -15,7 +20,7 @@ int main() {
 
         seq.push_back(c);
 
-        if (i%3 != 0) {
+        if (i%sep != 0) {
             continue;
         }
 
